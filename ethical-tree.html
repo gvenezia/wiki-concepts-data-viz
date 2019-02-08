@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title>Web Scraping</title>
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+  <!-- VSA Fonts -->
+  <!-- <link rel="stylesheet" type="text/css" href="fonts.css"> -->
+
+  <!-- Font Awesome -->
+  <!-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous"> -->
+
+  <!-- Personal CSS -->
+  <!-- <link rel="stylesheet" type="text/css" href="style.css"> -->
+
+  <!-- load D3 and TopoJSON -->     
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <!-- <script src="https://d3js.org/topojson.v2.min.js"></script> -->
+
+  <style type="text/css">
+    svg {
+      user-select: none;
+    }
+
+    .node circle {
+      fill: #228B22 ;
+      stroke: #228B22;
+      stroke-width: 3px;
+    }
+    .node text { font: sans-serif; }
+    .node--internal text {
+      text-shadow: 0 1px 0 #fff, 0 -1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff;
+    }
+    .link {
+      fill: none;
+      stroke: #ccc;
+      stroke-width: 2px;
+    }
+
+  </style>
+
+</head>
+<body>
+  <div class="padding-container">
+    <div id="graph-container"></div>
+  </div>
+
+<!-- GRAPHS -->
+<script>
+
+// =================== Data & Chart Prep ======================
+  // Set the dimensions and margins of the graph
+  let margin = { top: 100, right: 300, bottom: 100, left: 50},
+      width = parseInt(d3.select('#graph-container').style('width')),
+      height = width*22,
+      domainwidth = width - margin.left - margin.right,
+      domainheight = height - margin.top - margin.bottom;
+
+  let dy = width / 6,
+      dx = 10;
+
+  d3.json('data/Ethical_consumerism_depth3.txt')
+    .then( data => {
+
+// =========== FROM D3 TIPS & TRICKS && @mbostock's collapsible tree ===================
+// https://beta.observablehq.com/@mbostock/collapsible-tree
+
+      // declares a tree layout and assigns the size
+      var treeLayout = d3.tree()
+          .size([domainheight, domainwidth]);
+
+      //  assigns the data to a hierarchy using parent-child relationships
+      var root = d3.hierarchy(data, d => d.children);
+
+      // maps the node data to the tree layout
+      root = treeLayout(root);
+
+      // Set initial variables for root object
+      root.x0 = dy / 2;
+      root.y0 = 0;
+
+      console.log(root);
+
+      // Give each node a distinct ID
+      root.descendants().forEach((d, i) => {
+        d.id = i;
+      });
+
+      // Declare SVG and 'g'
+      var svg = d3.select("#graph-container").append("svg")
+            .attr("width", width)
+            .attr("height", height),
+          g = svg.append("g")
+            .attr("transform",
+                  "translate(" + margin.left + "," + margin.top + ")");
+
+      // adds the links between the root
+      var link = g.selectAll(".link")
+          .data( root.links())
+        .enter().append("path")
+          .attr("class", "link")
+          .attr("d", d3.linkHorizontal().x(d => d.y).y(d => d.x));
+
+      // adds each node as a group
+      var node = g.selectAll(".node")
+          .data(root.descendants())
+        .enter().append("g")
+          .attr("class", function(d) { 
+            return "node" + 
+              (d.children ? " node--internal" : " node--leaf"); })
+          .attr("transform", function(d) { 
+            return "translate(" + d.y + "," + d.x + ")"; });
+
+      // adds the circle to the node
+      node.append("circle")
+        .attr("r", (d) => (20 - d.depth*6) );
+
+      // adds the text to the node
+      node.append("text")
+        .attr("dy", ".35em")
+        .attr("x", function(d) {
+         return d.depth === 0 ?
+                  30 :
+                  d.children ? 
+                  -20 :
+                  13; 
+        })
+        .style("text-anchor", function(d) { 
+           return d.depth === 0 || !d.children ? "start" : "end" ;
+         }) 
+        .attr('font-size', (d) => (30 - d.depth*7).toString())
+        .text(function(d) { 
+          let currConcept = d.data.name || d.data;
+          return currConcept; 
+        });
+     
+    }) // end .then((data){})
+    .catch( (err) => {
+      console.log(err)
+    }); // end then callback() and .then()
+</script>

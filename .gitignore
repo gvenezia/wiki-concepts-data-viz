@@ -1,0 +1,21 @@
+# Gaetano's standard .gitignore file
+# local data files
+/local_data
+
+# don't upload the large output files, but keep the folder for reference
+output/*
+!output/.gitkeep
+
+# dependencies
+/node_modules
+
+# misc
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# logs
+npm-debug.log*

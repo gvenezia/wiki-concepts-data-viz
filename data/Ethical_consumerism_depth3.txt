@@ -1,0 +1,4041 @@
+{
+  "name": "Ethical consumerism",
+  "children": [
+    {
+      "name": "Anti-consumerism",
+      "children": [
+        {
+          "name": "Category:Anti-consumerists",
+          "children": []
+        },
+        {
+          "name": "Adbusters",
+          "children": [
+            "Ad creep",
+            "Culture Jamming",
+            "Downhill Battle",
+            "Engaged Buddhism",
+            "Free Culture movement",
+            "Geez Magazine",
+            "Indymedia",
+            "No Logo",
+            "Situationist International",
+            "StayFree! Magazine",
+            "The Yes Men",
+            "Timeline of Occupy Wall Street"
+          ]
+        },
+        {
+          "name": "Affluenza",
+          "children": [
+            "Brock Turner",
+            "Christian views on poverty and wealth",
+            "Conspicuous consumption",
+            "Diseases of affluence",
+            "Ethan Couch",
+            "Lifestyle disease",
+            "O. J. Simpson murder case",
+            "Simple living",
+            "Affluenza (film)"
+          ]
+        },
+        {
+          "name": "Anti-capitalism",
+          "children": [
+            "Adbusters",
+            "Anarchism",
+            "Anti-consumerism",
+            "Anti-Capitalist Convergence",
+            "Christian views on poverty and wealth",
+            "Communism",
+            "Distributism",
+            "Eye of a needle",
+            "Hairshirt environmentalism",
+            "List of communist and anti-capitalist parties with parliamentary representation",
+            "Post-capitalism"
+          ]
+        },
+        {
+          "name": "Austrian School",
+          "children": [
+            "Criticism of the Federal Reserve",
+            "List of Austrian intellectual traditions",
+            "List of Austrian School economists",
+            "Perspectives on capitalism by school of thought",
+            "New institutional economics",
+            "School of Salamanca"
+          ]
+        },
+        {
+          "name": "Counter-economics",
+          "children": [
+            "Agorism",
+            "Civil disobedience",
+            "Economic secession",
+            "Illegalism",
+            "Informal sector"
+          ]
+        },
+        {
+          "name": "Degrowth",
+          "children": [
+            "Degrowth advocates",
+            "Anarcho-primitivism",
+            "Anti-capitalism",
+            "Anti-consumerism",
+            "Club of Rome",
+            "Ecological economics",
+            "Edward Goldsmith",
+            "André Gorz",
+            "Ezra J. Mishan",
+            "François Partant",
+            "Genuine progress indicator",
+            "GROWL",
+            "L-shaped recession",
+            "Nicholas Georgescu-Roegen",
+            "Political ecology",
+            "Postdevelopment theory",
+            "Serge Latouche",
+            "Simple living",
+            "Slow movement",
+            "Steady-state economy",
+            "Paradox of thrift",
+            "Tim Jackson (economist)",
+            "Prosperity Without Growth",
+            "Transition town",
+            "Uneconomic growth",
+            "Post-consumerism",
+            "Post-growth",
+            "Productivism"
+          ]
+        },
+        {
+          "name": "Détournement",
+          "children": [
+            "Doppelgänger brand image",
+            "Subvertising",
+            "Culture jamming",
+            "Anti-art",
+            "Comic strip switcheroo",
+            "Scratch Video",
+            "Dumb Starbucks",
+            "Recuperation (politics)"
+          ]
+        },
+        {
+          "name": "Downshifting (lifestyle)",
+          "children": [
+            "Anti-consumerism",
+            "Conspicuous consumption",
+            "Degrowth",
+            "Eco-communalism",
+            "Ecological economics",
+            "Ecovillage",
+            "Ethical consumerism",
+            "FIRE movement",
+            "Frugality",
+            "Homesteading",
+            "Intentional community",
+            "Intentional living",
+            "Permaculture",
+            "Simple living",
+            "Slow living",
+            "Slow movement",
+            "Sustainable living",
+            "Transition towns",
+            "Workaholic"
+          ]
+        },
+        {
+          "name": "Fab lab",
+          "children": [
+            "Hacker Culture",
+            "TechShop",
+            "3D printing",
+            "Hackerspace",
+            "Open design",
+            "Open hardware",
+            "Open Source Ecology",
+            "RepRap"
+          ]
+        },
+        {
+          "name": "FIRE movement",
+          "children": []
+        },
+        {
+          "name": "Freeganism",
+          "children": []
+        },
+        {
+          "name": "Kashless.org",
+          "children": [
+            "RecycleBank"
+          ]
+        },
+        {
+          "name": "Keeping up with the Joneses",
+          "children": [
+            "Affluenza",
+            "Anthropological theories of value",
+            "Conspicuous consumption",
+            "Herd behavior",
+            "Relative deprivation",
+            "Symbolic capital",
+            "Transformative asset",
+            "Veblen good",
+            "Diderot Effect"
+          ]
+        },
+        {
+          "name": "Mottainai",
+          "children": [
+            "Affluenza",
+            "Anti-consumerism",
+            "Bal tashchit",
+            "Conspicuous consumption",
+            "Freeganism",
+            "Frugality",
+            "Mottai Night Land",
+            "Kyary Pamyu Pamyu",
+            "lean manufacturing",
+            "Planned obsolescence",
+            "Simple living"
+          ]
+        },
+        {
+          "name": "Mr. Money Mustache",
+          "children": []
+        },
+        {
+          "name": "Overconsumption",
+          "children": [
+            "Artificial demand",
+            "Collaborative consumption",
+            "Conspicuous consumption",
+            "Consumption (economics)",
+            "Degrowth",
+            "Environmental studies",
+            "Externality",
+            "Mottainai",
+            "Overexploitation",
+            "Overshoot (population)",
+            "Peak copper",
+            "Peak oil",
+            "Preorder economy",
+            "Santosha",
+            "Steady-state economy"
+          ]
+        },
+        {
+          "name": "Philosophy of futility",
+          "children": [
+            "Affluenza",
+            "Conspicuous consumption",
+            "Thorstein Veblen",
+            "Mass society",
+            "Anomie",
+            "Nihilism"
+          ]
+        },
+        {
+          "name": "Planned obsolescence",
+          "children": [
+            "Artificial demand",
+            "Durapolist",
+            "Life spans of home appliances",
+            "Obsolescence",
+            "Prognostics",
+            "Setting up to fail"
+          ]
+        },
+        {
+          "name": "Post-growth",
+          "children": [
+            "Participatory economics",
+            "Universal Basic Income",
+            "Ecological economics",
+            "Club of Rome",
+            "Genuine progress indicator",
+            "Steady-state economy",
+            "Political ecology",
+            "Deep ecology",
+            "Slow Movement",
+            "Tim Jackson (economist)",
+            "Traditional trades",
+            "Uneconomic growth",
+            "Post-consumerism"
+          ]
+        },
+        {
+          "name": "William Rathje",
+          "children": []
+        },
+        {
+          "name": "Steady-state economy",
+          "children": [
+            "History of economic thought",
+            "Classical economics",
+            "Ecological economics",
+            "Degrowth",
+            "Post-growth",
+            "Market failure: Ecological market failure",
+            "Environmentalism",
+            "Ecological footprint",
+            "Planetary boundaries",
+            "Sustainability: Carrying capacity",
+            "Human overpopulation",
+            "Jevons paradox",
+            "Peak minerals",
+            "Kenneth E. Boulding",
+            "Herman Daly",
+            "Nicholas Georgescu-Roegen: Criticising Daly's steady-state economics"
+          ]
+        },
+        {
+          "name": "Vaporwave",
+          "children": [
+            "Culture jamming",
+            "Digitality",
+            "Hauntology",
+            "Internet art",
+            "Massurrealism",
+            "Remix culture",
+            "Scratch video"
+          ]
+        },
+        {
+          "name": "Waste picker",
+          "children": [
+            "Dumpster diving",
+            "Gleaning",
+            "Grubber",
+            "Junk man",
+            "Rag-and-bone man",
+            "Tosher",
+            "Mudlark"
+          ]
+        },
+        {
+          "name": "The Zeitgeist Movement",
+          "children": [
+            "Post-scarcity economy",
+            "Technological utopianism",
+            "Money Free Party",
+            "Structural fix"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Critical consumerism",
+      "children": [
+        {
+          "name": "Nike sweatshops",
+          "children": [
+            "Child labor"
+          ]
+        },
+        {
+          "name": "Ethical consumerism",
+          "children": [
+            "Anti-consumerism",
+            "Critical consumerism",
+            "Carrying capacity",
+            "Cause marketing",
+            "Consumerism",
+            "Ethical banking",
+            "Ethical eating",
+            "Ethical investing",
+            "Frugality",
+            "Green brands",
+            "Intentional living",
+            "Socially responsible investing",
+            "Sustainable living",
+            "Vegetarianism",
+            "Veganism",
+            "Ecologism",
+            "Organic food culture"
+          ]
+        },
+        {
+          "name": "Consumerism",
+          "children": [
+            "",
+            "Consumerism portal",
+            "Anthropological theories of value",
+            "Bourgeois personality",
+            "Commercialism",
+            "Commodity fetishism",
+            "Consumer Bill of Rights",
+            "Consumer capitalism",
+            "Consumer ethnocentrism",
+            "Consumtariat",
+            "Cost the limit of price",
+            "Ecoleasing",
+            "Economic materialism",
+            "Frugality",
+            "Geoffrey Miller",
+            "Greed",
+            "Homo consumericus",
+            "Horace Kallen",
+            "Hyperconsumerism",
+            "Hypermobility (travel)",
+            "Keeping up with the Joneses",
+            "Life spans of home appliances",
+            "Moonlight clan",
+            "Overconsumption",
+            "Participatory culture",
+            "Philosophy of futility",
+            "Planned obsolescence",
+            "Planetary boundaries",
+            "Post-materialism",
+            "Productivism",
+            "Prosumer",
+            "Sharing economy",
+            "Steady state economy"
+          ]
+        },
+        {
+          "name": "Boycott",
+          "children": []
+        },
+        {
+          "name": "Anti-boycott",
+          "children": []
+        },
+        {
+          "name": "Subvertising",
+          "children": [
+            "Culture jamming",
+            "Doppelgänger brand image",
+            "Criticism of advertising",
+            "Hungarian Two-tailed Dog Party",
+            "Meme hack",
+            "Wacky Packages"
+          ]
+        },
+        {
+          "name": "Culture jamming",
+          "children": [
+            "",
+            "Culture jamming portal",
+            "Doppelgänger brand image",
+            "Subvertising",
+            "Banksy",
+            "Critical theory",
+            "The Firesign Theatre",
+            "Minority influence",
+            "Tactical media"
+          ]
+        },
+        {
+          "name": "Sustainability",
+          "children": [
+            "Book: Sustainability"
+          ]
+        },
+        {
+          "name": "Guilt-free consumption",
+          "children": [
+            "Cause marketing",
+            "Consumer behaviour",
+            "Critical consumerism",
+            "Eco-gastronomy",
+            "Green brands",
+            "Organic food culture"
+          ]
+        },
+        {
+          "name": "Organic food culture",
+          "children": [
+            "Organic food",
+            "Eco-gastronomy",
+            "Critical consumerism",
+            "Natural foods",
+            "Organic certification",
+            "Novel food"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Carrying capacity",
+      "children": [
+        {
+          "name": "Tourism carrying capacity",
+          "children": [
+            "Ecotourism"
+          ]
+        },
+        {
+          "name": "Arable land",
+          "children": [
+            "Soil fertility",
+            "Land use statistics by country",
+            "List of environment topics",
+            "Development easement"
+          ]
+        },
+        {
+          "name": "Ecological economics",
+          "children": [
+            "Ecological economists",
+            "Agroecology",
+            "Deep ecology",
+            "Degrowth",
+            "Earth Economics",
+            "Eco-socialism",
+            "Ecofeminism",
+            "Ecological model of competition",
+            "Ecological values of mangrove",
+            "Ecology of contexts",
+            "Emergy synthesis",
+            "Embodied energy",
+            "Embodied water",
+            "Energy accounting",
+            "Energy quality",
+            "Environmental economics",
+            "Green accounting",
+            "Human development theory",
+            "Human ecology",
+            "Inclusive Democracy",
+            "Index of Sustainable Economic Welfare",
+            "International Society for Ecological Economics",
+            "Natural capital accounting",
+            "Natural resource economics",
+            "Outline of green politics",
+            "Social metabolism",
+            "Spaceship Earth",
+            "Steady-state economy",
+            "Thermoeconomics"
+          ]
+        },
+        {
+          "name": "Effects of global warming",
+          "children": [
+            "4 Degrees and Beyond International Climate Conference",
+            "Anthropocene",
+            "Risks to civilization, humans and planet Earth",
+            "Indigenous Peoples Climate Change Assessment Initiative",
+            "Environmental sociology",
+            "Arctic Climate Impact Assessment",
+            "Effects of global warming on Australia",
+            "Effects of global warming on India",
+            "Kivalina v. ExxonMobil Corporation",
+            "Bush Administration assessments of impacts and adaptation",
+            "Biological pump",
+            "Climate Vulnerability Monitor",
+            "Oceanic anoxic event",
+            "PRECIS (Providing Regional Climates for Impacts Studies)",
+            "Solubility pump"
+          ]
+        },
+        {
+          "name": "Environmental space",
+          "children": []
+        },
+        {
+          "name": "List of sovereign states and dependencies by total fertility rate",
+          "children": [
+            "Total fertility rate",
+            "List of countries by number of births",
+            "List of countries by future population (United Nations, medium fertility variant)",
+            "List of sovereign states and dependent territories by birth rate",
+            "List of people with the most children",
+            "List of population concern organizations",
+            "Population growth",
+            "Sub-replacement fertility",
+            "Fertility and intelligence",
+            "Aging of Europe",
+            "Aging of Japan",
+            "Christian population growth",
+            "Muslim population growth"
+          ]
+        },
+        {
+          "name": "Inflection point",
+          "children": [
+            "Critical point (mathematics)",
+            "Ecological threshold",
+            "Hesse configuration",
+            "elliptic curve",
+            "Ogee",
+            "Vertex (curve)"
+          ]
+        },
+        {
+          "name": "Optimum population",
+          "children": [
+            "Environmental impact of agriculture",
+            "Environmental impact of shipping",
+            "Habitat destruction",
+            "Human impact on the environment",
+            "Human overpopulation",
+            "List of largest consumer markets",
+            "List of population concern organizations",
+            "List of sovereign states and dependent territories by population density",
+            "Optimum sustainable yield",
+            "Population density",
+            "Quality of life",
+            "Sustainability",
+            "Welfare economics"
+          ]
+        },
+        {
+          "name": "Overpopulation",
+          "children": [
+            "Overpopulation in domestic pets"
+          ]
+        },
+        {
+          "name": "Overshoot (population)",
+          "children": [
+            "Green Revolution",
+            "Malthusian catastrophe",
+            "Population cycle",
+            "Earth Overshoot Day"
+          ]
+        },
+        {
+          "name": "Population",
+          "children": [
+            "",
+            "Population portal",
+            "Community (ecology)",
+            "Population geography",
+            "List of countries by population",
+            "Lists of organisms by population"
+          ]
+        },
+        {
+          "name": "Population ecology",
+          "children": [
+            "Deep ecology",
+            "Density-dependent inhibition",
+            "Irruptive growth",
+            "Lists of organisms by population",
+            "Overpopulation",
+            "Overpopulation in companion animals",
+            "Overshoot (population)",
+            "Population density",
+            "Population distribution",
+            "Population dynamics",
+            "Population dynamics of fisheries",
+            "Population genetics",
+            "Population growth",
+            "Theoretical ecology"
+          ]
+        },
+        {
+          "name": "Population growth",
+          "children": [
+            "Anthropocene",
+            "Baby boom",
+            "Biological exponential growth",
+            "Demographic history",
+            "Demographic transition",
+            "Density dependence",
+            "Doubling time",
+            "Fertility factor (demography)",
+            "Human overpopulation",
+            "Irruptive growth",
+            "List of countries by population growth rate",
+            "Natalism",
+            "Antinatalism",
+            "Population bottleneck",
+            "Population decline",
+            "Population dynamics",
+            "World population",
+            "World Scientists' Warning to Humanity"
+          ]
+        },
+        {
+          "name": "Principles of intelligent urbanism",
+          "children": [
+            "Michael E. Arth",
+            "Christopher Charles Benninger",
+            "Broadacre City",
+            "Garden city movement",
+            "New Classical Architecture",
+            "New Pedestrianism",
+            "New Urbanism",
+            "Josep Lluis Sert",
+            "Smart Growth",
+            "Social Access",
+            "Structure Plan",
+            "Sustainable city",
+            "Team Ten",
+            "Theories of Urban Planning",
+            "Transit Oriented Development",
+            "Urban design",
+            "Urban studies",
+            "Urban village",
+            "Vitruvius"
+          ]
+        },
+        {
+          "name": "r/K selection theory",
+          "children": [
+            "Evolutionary game theory",
+            "Semelparity and iteroparity",
+            "Ruderal species",
+            "Trivers–Willard hypothesis",
+            "Life history theory"
+          ]
+        },
+        {
+          "name": "Simon–Ehrlich wager",
+          "children": [
+            "Long Bet Project",
+            "Malthusian catastrophe",
+            "Oil price increases since 2003",
+            "Peak oil",
+            "Richard Rainwater",
+            "Simmons–Tierney bet",
+            "Scientific wager"
+          ]
+        },
+        {
+          "name": "Thomas Robert Malthus",
+          "children": [
+            "Cornucopianism",
+            "Food Race",
+            "Daniel Quinn",
+            "Club of Rome",
+            "Hong Liangji",
+            "Malthusian trap",
+            "Malthusian growth model",
+            "Malthusian equilibrium",
+            "Malthusianism",
+            "National Security Study Memorandum 200",
+            "Overpopulation",
+            "World population",
+            "Observations Concerning the Increase of Mankind, Peopling of Countries, etc."
+          ]
+        },
+        {
+          "name": "Toxic capacity",
+          "children": [
+            "Toxicology",
+            "Persistent organic pollutants"
+          ]
+        },
+        {
+          "name": "Aftermath (2010 TV series)",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Cause marketing",
+      "children": [
+        {
+          "name": "Corporate social responsibility",
+          "children": [
+            "Beneficiation",
+            "Business in the Community",
+            "Business philosophy",
+            "Carbon neutrality",
+            "Carbon offset",
+            "Chief green officer",
+            "Civil society",
+            "Conscious business",
+            "Corporate behaviour",
+            "Corporate governance",
+            "Corporate personhood",
+            "Corporate social entrepreneurship",
+            "Corporate sustainability",
+            "Customer engagement",
+            "Development studies",
+            "Environmentalism",
+            "Ethical banking",
+            "Ethical code",
+            "Ethical job",
+            "Ethical Positioning Index (EPI)",
+            "Ethics",
+            "Green economy",
+            "Green job",
+            "Inclusive business",
+            "Integrity management",
+            "Interest of the company",
+            "International development",
+            "ISO 26000",
+            "Life cycle assessment",
+            "Matching gift",
+            "Noblesse oblige",
+            "OECD Guidelines for Multinational Enterprises",
+            "Organizational ethics",
+            "Organizational justice",
+            "Psychopathy in the workplace",
+            "Purple economy",
+            "Responsible mining",
+            "Responsible Research and Innovation",
+            "Shareholder primacy",
+            "Social development",
+            "Social work",
+            "Socially responsible investing",
+            "Socially responsible marketing",
+            "Voluntary compliance",
+            "Volunteer grant"
+          ]
+        },
+        {
+          "name": "Corporate identity",
+          "children": [
+            "Brand equity",
+            "Brand management",
+            "Corporate anniversary",
+            "Federal Identity Program",
+            "Graphic charter",
+            "Marketing",
+            "Product management",
+            "Product naming"
+          ]
+        },
+        {
+          "name": "Foundation (nonprofit)",
+          "children": [
+            "Wikipedia articles on individual foundations",
+            "Charitable trust",
+            "List of wealthiest foundations",
+            "Program evaluation",
+            "Think tank",
+            "List of charitable foundations",
+            "Nongovernmental organization",
+            "International nongovernmental organization"
+          ]
+        },
+        {
+          "name": "Outline of marketing",
+          "children": []
+        },
+        {
+          "name": "Marketing",
+          "children": []
+        },
+        {
+          "name": "Nonprofit organization",
+          "children": [
+            "Association without lucrative purpose",
+            "Community organization",
+            "Effective altruism",
+            "Fundraising",
+            "Master of Nonprofit Organizations",
+            "Mutual organization",
+            "Non-commercial",
+            "Non-governmental organization",
+            "Non-profit organizations and access to public information",
+            "Non-profit technology",
+            "Occupational safety and health",
+            "Social economy",
+            "Supporting organization (charity)",
+            "United States non-profit laws",
+            "Voluntary sector"
+          ]
+        },
+        {
+          "name": "Philanthropy",
+          "children": [
+            "List of philanthropists",
+            "List of wealthiest charitable foundations",
+            "Charitable organization",
+            "Foundation (charity)",
+            "Giving Is Living",
+            "Non-profit organization",
+            "Venture philanthropy"
+          ]
+        },
+        {
+          "name": "Public relations",
+          "children": [
+            "Brand management",
+            "Grassroots",
+            "Impression management",
+            "List of press release agencies",
+            "List of public relations journals",
+            "Media intelligence",
+            "Media manipulation",
+            "Promotion (marketing)",
+            "Propaganda",
+            "Public relations in India",
+            "Publicist",
+            "Reputation management"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Consumerism",
+      "children": [
+        {
+          "name": "File:Portal-puzzle.svg",
+          "children": []
+        },
+        {
+          "name": "Portal:Consumerism",
+          "children": []
+        },
+        {
+          "name": "Anthropological theories of value",
+          "children": [
+            "Conformity",
+            "Reciprocity (cultural anthropology)",
+            "Westernization"
+          ]
+        },
+        {
+          "name": "Bourgeoisie",
+          "children": [
+            "Beurgeois",
+            "Bildungsbürgertum",
+            "Burgess",
+            "Conspicuous consumption",
+            "Conspicuous leisure",
+            "Cultural hegemony",
+            "Economic stratification",
+            "Gentrification",
+            "Grand Burgher",
+            "Habitus (sociology)",
+            "Hipster (contemporary subculture)",
+            "Homo economicus",
+            "Ilustrado",
+            "Occupational prestige",
+            "Petite bourgeoisie",
+            "Political class",
+            "Proletariat",
+            "Rational-legal authority",
+            "Social environment",
+            "Social structure of the United Kingdom",
+            "Upper middle class",
+            "Yuppie"
+          ]
+        },
+        {
+          "name": "Commercialism",
+          "children": []
+        },
+        {
+          "name": "Commodity fetishism",
+          "children": [
+            "Simple living"
+          ]
+        },
+        {
+          "name": "Consumer Bill of Rights",
+          "children": []
+        },
+        {
+          "name": "Consumer capitalism",
+          "children": [
+            "Capitalism",
+            "Consumerism",
+            "Geoffrey Miller (evolutionary psychologist)",
+            "Planned obsolescence"
+          ]
+        },
+        {
+          "name": "Consumer ethnocentrism",
+          "children": [
+            "Ethnic nepotism"
+          ]
+        },
+        {
+          "name": "Netocracy",
+          "children": [
+            "1% rule (Internet culture)",
+            "Agent of influence",
+            "Digerati",
+            "Digital citizen",
+            "Digital divide",
+            "Group decision-making",
+            "Indigo Era (economics)",
+            "Influencer marketing",
+            "Information ecology",
+            "Information society",
+            "Klout",
+            "Knowledge divide",
+            "Noocracy",
+            "Online participation",
+            "Opinion leadership",
+            "Power user",
+            "Social marketing intelligence § Alpha users",
+            "Social media",
+            "Uberisation",
+            "Wikipedia"
+          ]
+        },
+        {
+          "name": "Cost the limit of price",
+          "children": [
+            "Anarchism",
+            "Mutualism",
+            "Mutual credit",
+            "Property is theft",
+            "Reciprocity"
+          ]
+        },
+        {
+          "name": "Ecoleasing",
+          "children": []
+        },
+        {
+          "name": "Economic materialism",
+          "children": [
+            "Consumerism",
+            "Anti-consumerism",
+            "Capitalism",
+            "Greed",
+            "Post-materialism",
+            "Material feminism"
+          ]
+        },
+        {
+          "name": "Frugality",
+          "children": [
+            "Affluenza",
+            "Anti-consumerism",
+            "Capsule wardrobe",
+            "Conspicuous consumption",
+            "Ethical consumerism",
+            "Financial independence",
+            "Frugal engineering",
+            "Garbage picking",
+            "Intentional living",
+            "Miser",
+            "Mottainai",
+            "Overconsumption",
+            "Paradox of thrift",
+            "Price comparison service",
+            "Simple living",
+            "Sustainable living"
+          ]
+        },
+        {
+          "name": "Geoffrey Miller (psychologist)",
+          "children": []
+        },
+        {
+          "name": "Greed",
+          "children": [
+            "Contempt",
+            "Financialization",
+            "Interest",
+            "Narcissism",
+            "Genoeconomics",
+            "Seven deadly sins",
+            "Greed is good",
+            "Theft"
+          ]
+        },
+        {
+          "name": "Homo consumericus",
+          "children": [
+            "Anti-consumerism",
+            "Commodity fetishism",
+            "Consumerism",
+            "Cultural studies",
+            "Gilles Lipovetsky"
+          ]
+        },
+        {
+          "name": "Horace Kallen",
+          "children": [
+            "American philosophy",
+            "List of American philosophers"
+          ]
+        },
+        {
+          "name": "Hyperconsumerism",
+          "children": [
+            "Commodification",
+            "Conspicuous consumption",
+            "Consumption (economics)",
+            "Hypermodernity"
+          ]
+        },
+        {
+          "name": "Hypermobility (travel)",
+          "children": [
+            "Dromomania",
+            "Environmental impact of aviation"
+          ]
+        },
+        {
+          "name": "Keeping up with the Joneses",
+          "children": [
+            "Affluenza",
+            "Anthropological theories of value",
+            "Conspicuous consumption",
+            "Herd behavior",
+            "Relative deprivation",
+            "Symbolic capital",
+            "Transformative asset",
+            "Veblen good",
+            "Diderot Effect"
+          ]
+        },
+        {
+          "name": "Life spans of home appliances",
+          "children": [
+            "Anti-consumerism",
+            "Consumerism",
+            "Planned obsolescence"
+          ]
+        },
+        {
+          "name": "Moonlight clan",
+          "children": [
+            "Working poor"
+          ]
+        },
+        {
+          "name": "Overconsumption",
+          "children": [
+            "Artificial demand",
+            "Collaborative consumption",
+            "Conspicuous consumption",
+            "Consumption (economics)",
+            "Degrowth",
+            "Environmental studies",
+            "Externality",
+            "Mottainai",
+            "Overexploitation",
+            "Overshoot (population)",
+            "Peak copper",
+            "Peak oil",
+            "Preorder economy",
+            "Santosha",
+            "Steady-state economy"
+          ]
+        },
+        {
+          "name": "Participatory culture",
+          "children": [
+            "Affinity space",
+            "Constructed World",
+            "Consumtariat",
+            "Hypersociability",
+            "Prosumer",
+            "Public participation",
+            "Remix culture",
+            "The Long Tail",
+            "Transmedia storytelling"
+          ]
+        },
+        {
+          "name": "Philosophy of futility",
+          "children": [
+            "Affluenza",
+            "Conspicuous consumption",
+            "Thorstein Veblen",
+            "Mass society",
+            "Anomie",
+            "Nihilism"
+          ]
+        },
+        {
+          "name": "Planned obsolescence",
+          "children": [
+            "Artificial demand",
+            "Durapolist",
+            "Life spans of home appliances",
+            "Obsolescence",
+            "Prognostics",
+            "Setting up to fail"
+          ]
+        },
+        {
+          "name": "Planetary boundaries",
+          "children": [
+            "Carbon cycle re-balancing",
+            "Ecological footprint",
+            "Gaia hypothesis",
+            "Global catastrophic risk",
+            "Global change",
+            "Great Transition",
+            "Holocene extinction",
+            "Human impact on the nitrogen cycle",
+            "Phosphate",
+            "Planetary health",
+            "Planetary management",
+            "Steady-state economy"
+          ]
+        },
+        {
+          "name": "Postmaterialism",
+          "children": [
+            "Affluenza",
+            "John Kenneth Galbraith",
+            "Anthony Giddens",
+            "Antonio Gramsci",
+            "Gross National Happiness",
+            "Historical revisionism",
+            "Integral theory (Ken Wilber)",
+            "Material feminism",
+            "Neo-Marxism",
+            "Postmodernity",
+            "Reflexive modernization",
+            "Self-expression values",
+            "World Values Survey"
+          ]
+        },
+        {
+          "name": "Productivism",
+          "children": [
+            "Agricultural productivity",
+            "Anarchism",
+            "Consumerism",
+            "Degrowth",
+            "Eco-socialism",
+            "Green parties",
+            "Green anarchism",
+            "Human development theory",
+            "Individual capital",
+            "Gross national happiness",
+            "Post-growth"
+          ]
+        },
+        {
+          "name": "Prosumer",
+          "children": [
+            "Commons-based peer production",
+            "Creative consumer",
+            "Read/write culture",
+            "Cost the limit of price",
+            "Participatory culture",
+            "Power user",
+            "Produsage"
+          ]
+        },
+        {
+          "name": "Sharing economy",
+          "children": [
+            "Co-creation",
+            "Collaborative finance",
+            "Collaborative innovation network",
+            "Cooperative",
+            "Creative Commons",
+            "Cryptocurrency",
+            "Digital collaboration",
+            "Internet of Services",
+            "Internet of things",
+            "Online platforms for collaborative consumption",
+            "Open Knowledge Foundation",
+            "Open source",
+            "P2P Foundation",
+            "Peer-to-peer (meme)",
+            "Recommerce",
+            "Reputation capital",
+            "Reputation systems",
+            "Secondhand good",
+            "Social collaboration",
+            "Social commerce",
+            "Social peer-to-peer processes",
+            "Solidarity economy",
+            "The Third Industrial Revolution",
+            "Two-sided market"
+          ]
+        },
+        {
+          "name": "Steady-state economy",
+          "children": [
+            "History of economic thought",
+            "Classical economics",
+            "Ecological economics",
+            "Degrowth",
+            "Post-growth",
+            "Market failure: Ecological market failure",
+            "Environmentalism",
+            "Ecological footprint",
+            "Planetary boundaries",
+            "Sustainability: Carrying capacity",
+            "Human overpopulation",
+            "Jevons paradox",
+            "Peak minerals",
+            "Kenneth E. Boulding",
+            "Herman Daly",
+            "Nicholas Georgescu-Roegen: Criticising Daly's steady-state economics"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ethical banking",
+      "children": [
+        {
+          "name": "Carbon Disclosure Project",
+          "children": [
+            "Carbon accounting",
+            "Carbon footprint",
+            "Global warming",
+            "Greenhouse debt"
+          ]
+        },
+        {
+          "name": "Climate ethics",
+          "children": [
+            "Climate justice",
+            "Climate Justice Action",
+            "Climate Justice Now!",
+            "Deliberative democracy",
+            "Earth Summit",
+            "Ecojustice Canada",
+            "Equity",
+            "Greenhouse Development Rights",
+            "Ethical banking",
+            "Laudato si'",
+            "United Nations Conference on the Human Environment",
+            "Action for climate empowerment (ACE)"
+          ]
+        },
+        {
+          "name": "Corporate social responsibility",
+          "children": [
+            "Beneficiation",
+            "Business in the Community",
+            "Business philosophy",
+            "Carbon neutrality",
+            "Carbon offset",
+            "Chief green officer",
+            "Civil society",
+            "Conscious business",
+            "Corporate behaviour",
+            "Corporate governance",
+            "Corporate personhood",
+            "Corporate social entrepreneurship",
+            "Corporate sustainability",
+            "Customer engagement",
+            "Development studies",
+            "Environmentalism",
+            "Ethical banking",
+            "Ethical code",
+            "Ethical job",
+            "Ethical Positioning Index (EPI)",
+            "Ethics",
+            "Green economy",
+            "Green job",
+            "Inclusive business",
+            "Integrity management",
+            "Interest of the company",
+            "International development",
+            "ISO 26000",
+            "Life cycle assessment",
+            "Matching gift",
+            "Noblesse oblige",
+            "OECD Guidelines for Multinational Enterprises",
+            "Organizational ethics",
+            "Organizational justice",
+            "Psychopathy in the workplace",
+            "Purple economy",
+            "Responsible mining",
+            "Responsible Research and Innovation",
+            "Shareholder primacy",
+            "Social development",
+            "Social work",
+            "Socially responsible investing",
+            "Socially responsible marketing",
+            "Voluntary compliance",
+            "Volunteer grant"
+          ]
+        },
+        {
+          "name": "Equator Principles",
+          "children": [
+            "Corporate social responsibility",
+            "Ethical banking",
+            "Ethical investing",
+            "Socially responsible investing",
+            "Special purpose entity",
+            "Cross-sector biodiversity initiative"
+          ]
+        },
+        {
+          "name": "Socially responsible investing",
+          "children": [
+            "Business ethics",
+            "Development impact bond",
+            "Community wind energy",
+            "Corporate social responsibility",
+            "Disinvestment",
+            "Eco-investing",
+            "Ethical banking",
+            "Fossil fuel divestment",
+            "Integrated reporting",
+            "Impact investing",
+            "Microfinance",
+            "Sharia investments",
+            "Social finance",
+            "Social impact bond",
+            "Social responsibility",
+            "Sustainable development",
+            "Terror-free investing",
+            "Vice Fund",
+            "Blended value"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ethical eating",
+      "children": []
+    },
+    {
+      "name": "Socially responsible investing",
+      "children": [
+        {
+          "name": "Business ethics",
+          "children": [
+            "B Corporation (certification)",
+            "Bribery",
+            "Business culture",
+            "Business law",
+            "Corporate behaviour",
+            "Corporate crime",
+            "Corporate social entrepreneurship",
+            "Corporate social responsibility",
+            "Corruption",
+            "Ethicism",
+            "Ethics",
+            "Ethical implications in contracts",
+            "Ethical consumerism",
+            "Ethical code",
+            "Ethical job",
+            "Evil corporation",
+            "Fiduciary",
+            "Management",
+            "Organizational ethics",
+            "Optimism bias",
+            "Penny stock scam",
+            "Strategic misrepresentation",
+            "Strategic planning",
+            "Philosophy and economics",
+            "Applied ethics"
+          ]
+        },
+        {
+          "name": "Development impact bond",
+          "children": [
+            "Bond (finance)",
+            "Build America Bonds",
+            "Eurobond",
+            "GDP-linked bond",
+            "Government bond",
+            "Sovereign bonds",
+            "Impact Investing",
+            "Patient capital",
+            "Social impact bond"
+          ]
+        },
+        {
+          "name": "Community wind energy",
+          "children": [
+            "List of onshore wind farms",
+            "Native Wind",
+            "Community solar farm"
+          ]
+        },
+        {
+          "name": "Corporate social responsibility",
+          "children": [
+            "Beneficiation",
+            "Business in the Community",
+            "Business philosophy",
+            "Carbon neutrality",
+            "Carbon offset",
+            "Chief green officer",
+            "Civil society",
+            "Conscious business",
+            "Corporate behaviour",
+            "Corporate governance",
+            "Corporate personhood",
+            "Corporate social entrepreneurship",
+            "Corporate sustainability",
+            "Customer engagement",
+            "Development studies",
+            "Environmentalism",
+            "Ethical banking",
+            "Ethical code",
+            "Ethical job",
+            "Ethical Positioning Index (EPI)",
+            "Ethics",
+            "Green economy",
+            "Green job",
+            "Inclusive business",
+            "Integrity management",
+            "Interest of the company",
+            "International development",
+            "ISO 26000",
+            "Life cycle assessment",
+            "Matching gift",
+            "Noblesse oblige",
+            "OECD Guidelines for Multinational Enterprises",
+            "Organizational ethics",
+            "Organizational justice",
+            "Psychopathy in the workplace",
+            "Purple economy",
+            "Responsible mining",
+            "Responsible Research and Innovation",
+            "Shareholder primacy",
+            "Social development",
+            "Social work",
+            "Socially responsible investing",
+            "Socially responsible marketing",
+            "Voluntary compliance",
+            "Volunteer grant"
+          ]
+        },
+        {
+          "name": "Disinvestment",
+          "children": [
+            "Economic and political boycotts of Israel",
+            "Ethical consumerism",
+            "Fossil fuel divestment",
+            "Municipal disinvestment",
+            "Socially responsible investing",
+            "Privatization"
+          ]
+        },
+        {
+          "name": "Eco-investing",
+          "children": [
+            "Ethical banking",
+            "Market-based environmental policy instruments",
+            "Sustainable products",
+            "Terror-free investing"
+          ]
+        },
+        {
+          "name": "Ethical banking",
+          "children": [
+            "Carbon Disclosure Project",
+            "Climate ethics",
+            "Corporate social responsibility",
+            "Equator Principles",
+            "Socially responsible investing"
+          ]
+        },
+        {
+          "name": "Fossil fuel divestment",
+          "children": [
+            "Australian Local Government Fossil Fuel Divestment",
+            "Climate movement",
+            "Fossil-fuel phase-out",
+            "Individual action on climate change",
+            "Low-carbon power",
+            "Negative externalities",
+            "Socially responsible investing",
+            "Sustainable consumption",
+            "Sustainable development"
+          ]
+        },
+        {
+          "name": "Integrated reporting",
+          "children": [
+            "Corporate social responsibility",
+            "EthicalQuote",
+            "Environmental Social and Corporate Governance",
+            "Financial statement",
+            "King Report on Corporate Governance",
+            "Social accounting",
+            "Socially responsible investing",
+            "Sustainability reporting",
+            "Triple bottom line",
+            "Islamic Reporting Initiative"
+          ]
+        },
+        {
+          "name": "Impact investing",
+          "children": [
+            "Double bottom line",
+            "Financial inclusion",
+            "Social finance",
+            "Social return on investment",
+            "Socially responsible investing"
+          ]
+        },
+        {
+          "name": "Microfinance",
+          "children": [
+            "Alternative data",
+            "Chit fund",
+            "Credit union",
+            "Crowd funding",
+            "List of microfinance sponsors",
+            "Market Governance Mechanisms",
+            "Microcredit",
+            "Microcredit for water supply and sanitation",
+            "Microfin360 - MIS & AIS for MFI",
+            "Microfinance in Tanzania",
+            "Microfinance organizations",
+            "Microgrant",
+            "Microinsurance",
+            "MifosX - MIS for MFI",
+            "Opportunity finance",
+            "Pawnbroker",
+            "Rotating savings and credit association",
+            "Savings bank",
+            "Assessment Fund",
+            "Tikkun Olam Microfinance",
+            "WWB Colombia"
+          ]
+        },
+        {
+          "name": "Islamic finance products, services and contracts",
+          "children": [
+            "Profit and loss sharing",
+            "Sharia and securities trading",
+            "Islamic banking and finance",
+            "Shariah Board",
+            "Dow Jones Islamic Fund"
+          ]
+        },
+        {
+          "name": "Social finance",
+          "children": [
+            "Christian finance",
+            "EthicalQuote",
+            "Impact investing",
+            "Microfinance",
+            "Social enterprise",
+            "Social impact bond",
+            "Socially-responsible investing"
+          ]
+        },
+        {
+          "name": "Social impact bond",
+          "children": [
+            "Business ethics",
+            "Campus carbon neutrality",
+            "Corporate social responsibility",
+            "Disinvestment",
+            "Dwight Hall Socially Responsible Investment Fund",
+            "Ethical banking",
+            "Impact investing",
+            "Microfinance",
+            "Social finance",
+            "White House Office of Social Innovation and Civic Participation",
+            "Sustainable development",
+            "The Government Pension Fund of Norway"
+          ]
+        },
+        {
+          "name": "Social responsibility",
+          "children": [
+            "Accountability",
+            "Collective responsibility",
+            "Corporate social responsibility",
+            "Inclusive business",
+            "SA8000",
+            "Scuppie",
+            "Shareholder primacy",
+            "Social enterprise",
+            "Social entrepreneurship",
+            "Socially responsible investing"
+          ]
+        },
+        {
+          "name": "Sustainable development",
+          "children": [
+            "Agroecology",
+            "Applied sustainability",
+            "Circles of Sustainability",
+            "Circular economy",
+            "Computational sustainability",
+            "Conservation biology",
+            "Conservation development",
+            "Cradle-to-cradle",
+            "Cultural footprint",
+            "Development Studies",
+            "Ecological economics",
+            "Ecological modernization",
+            "Ecologically sustainable development",
+            "Environmental issue",
+            "Environmental justice",
+            "Environmental racism",
+            "Farmer Research Committee",
+            "Gender and development",
+            "Green development",
+            "Micro-sustainability",
+            "Outline of sustainability",
+            "Purple economy",
+            "Regenerative design",
+            "Social sustainability",
+            "Sustainable coffee",
+            "Sustainable fishery",
+            "Sustainable forest management",
+            "Sustainable land management",
+            "Sustainable living",
+            "Sustainable yield",
+            "Sustainopreneurship",
+            "Weak and strong sustainability",
+            "Zero-carbon city"
+          ]
+        },
+        {
+          "name": "Terror-free investing",
+          "children": [
+            "Socially responsible investing",
+            "Definition of terrorism",
+            "List of designated terrorist organizations",
+            "U.S. State Department list of Foreign Terrorist Organizations",
+            "State Sponsors of Terrorism"
+          ]
+        },
+        {
+          "name": "Vice Fund",
+          "children": []
+        },
+        {
+          "name": "Blended value",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Frugality",
+      "children": [
+        {
+          "name": "Affluenza",
+          "children": [
+            "Brock Turner",
+            "Christian views on poverty and wealth",
+            "Conspicuous consumption",
+            "Diseases of affluence",
+            "Ethan Couch",
+            "Lifestyle disease",
+            "O. J. Simpson murder case",
+            "Simple living",
+            "Affluenza (film)"
+          ]
+        },
+        {
+          "name": "Anti-consumerism",
+          "children": [
+            "Anti-consumerists",
+            "Adbusters",
+            "Affluenza",
+            "Anti-capitalism",
+            "Austrian school",
+            "Counter-economics",
+            "Degrowth",
+            "Détournement",
+            "Downshifting (lifestyle)",
+            "Fab lab",
+            "FIRE movement",
+            "Freeganism",
+            "Kashless.org",
+            "Keeping up with the Joneses",
+            "Mottainai",
+            "Mr. Money Mustache",
+            "Over-consumption",
+            "Philosophy of futility",
+            "Planned obsolescence",
+            "Post-growth",
+            "Use Less Stuff",
+            "Steady-state economy",
+            "Vaporwave",
+            "Waste picker",
+            "The Zeitgeist Movement"
+          ]
+        },
+        {
+          "name": "Capsule wardrobe",
+          "children": [
+            "Simple living"
+          ]
+        },
+        {
+          "name": "Conspicuous consumption",
+          "children": [
+            "Affluenza",
+            "Anti-consumerism",
+            "Bling",
+            "Class consciousness",
+            "Commodity fetishism",
+            "Conspicuous conservation",
+            "Conspicuous leisure",
+            "Elitism",
+            "Frugality",
+            "Giffen Good",
+            "Handicap principle",
+            "Haul video",
+            "Hoarding",
+            "Keeping up with the Joneses",
+            "Materialism",
+            "Mottainai",
+            "Post-purchase rationalization",
+            "Potlatch",
+            "Prestige pricing",
+            "Sign value",
+            "Signalling theory",
+            "Simple living",
+            "Status symbol",
+            "Structural functionalism",
+            "Sumptuary law",
+            "Sumptuary taxes",
+            "Veblen good"
+          ]
+        },
+        {
+          "name": "Ethical consumerism",
+          "children": [
+            "Anti-consumerism",
+            "Critical consumerism",
+            "Carrying capacity",
+            "Cause marketing",
+            "Consumerism",
+            "Ethical banking",
+            "Ethical eating",
+            "Ethical investing",
+            "Frugality",
+            "Green brands",
+            "Intentional living",
+            "Socially responsible investing",
+            "Sustainable living",
+            "Vegetarianism",
+            "Veganism",
+            "Ecologism",
+            "Organic food culture"
+          ]
+        },
+        {
+          "name": "Financial independence",
+          "children": [
+            "Mr. Money Mustache"
+          ]
+        },
+        {
+          "name": "Frugal innovation",
+          "children": [
+            "Navi Radjou",
+            "Jaideep Prabhu",
+            "Appropriate technology",
+            "C. K. Prahalad",
+            "Disruptive innovation",
+            "Reverse innovation",
+            "Small is beautiful"
+          ]
+        },
+        {
+          "name": "Dumpster diving",
+          "children": [
+            "Waste picker",
+            "Salvage",
+            "Salvage data",
+            "Salvage archaeology",
+            "Curb mining",
+            "Dump digging",
+            "Electronic waste",
+            "Food Not Bombs",
+            "Food rescue",
+            "Freeganism",
+            "Gleaning",
+            "Pagpag",
+            "Garbology",
+            "Information diving",
+            "Benjamin Pell",
+            "Recycling",
+            "Vermiculture"
+          ]
+        },
+        {
+          "name": "Intentional living",
+          "children": [
+            "Car-free movement",
+            "Eco-communalism",
+            "Ecovillage",
+            "Orthodox Mennonites",
+            "Noah Hoover Mennonite",
+            "Simple living",
+            "Veganism",
+            "World Brotherhood Colonies"
+          ]
+        },
+        {
+          "name": "Miser",
+          "children": []
+        },
+        {
+          "name": "Mottainai",
+          "children": [
+            "Affluenza",
+            "Anti-consumerism",
+            "Bal tashchit",
+            "Conspicuous consumption",
+            "Freeganism",
+            "Frugality",
+            "Mottai Night Land",
+            "Kyary Pamyu Pamyu",
+            "lean manufacturing",
+            "Planned obsolescence",
+            "Simple living"
+          ]
+        },
+        {
+          "name": "Overconsumption",
+          "children": [
+            "Artificial demand",
+            "Collaborative consumption",
+            "Conspicuous consumption",
+            "Consumption (economics)",
+            "Degrowth",
+            "Environmental studies",
+            "Externality",
+            "Mottainai",
+            "Overexploitation",
+            "Overshoot (population)",
+            "Peak copper",
+            "Peak oil",
+            "Preorder economy",
+            "Santosha",
+            "Steady-state economy"
+          ]
+        },
+        {
+          "name": "Paradox of thrift",
+          "children": [
+            "Capitol Hill Baby-Sitting Co-op",
+            "Degrowth",
+            "Frugality",
+            "List of paradoxes",
+            "Social trap",
+            "Vicious circle",
+            "Tragedy of the Commons",
+            "Bertrand Russell"
+          ]
+        },
+        {
+          "name": "Comparison shopping website",
+          "children": [
+            "Discovery shopping",
+            "Gasoline price website",
+            "Consumer switching"
+          ]
+        },
+        {
+          "name": "Simple living",
+          "children": [
+            "Simple living advocates",
+            "Affluenza",
+            "Asceticism",
+            "Anti-consumerism",
+            "Black Bear Ranch",
+            "Corporate poverty",
+            "Deep ecology",
+            "Degrowth",
+            "Eye of a needle",
+            "Epicureanism",
+            "Homesteading",
+            "Intentional living",
+            "Jesus and the rich young man"
+          ]
+        },
+        {
+          "name": "Sustainable living",
+          "children": [
+            "Circles of Sustainability",
+            "Cradle-to-cradle design",
+            "Circular economy",
+            "Climate-friendly gardening",
+            "Downshifting",
+            "Eco-communalism",
+            "Ecodesign",
+            "Ecological economics",
+            "Ethical consumerism",
+            "Foodscaping",
+            "Frugality",
+            "Simple living",
+            "Sustainability",
+            "Sustainable architecture",
+            "Sustainable design",
+            "Sustainable development",
+            "Sustainable event management",
+            "Sustainable landscaping",
+            "Sustainable House Day",
+            "Permaculture",
+            "The Venus Project",
+            "Transition Towns"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Green brands",
+      "children": [
+        {
+          "name": "Ethical consumerism",
+          "children": [
+            "Anti-consumerism",
+            "Critical consumerism",
+            "Carrying capacity",
+            "Cause marketing",
+            "Consumerism",
+            "Ethical banking",
+            "Ethical eating",
+            "Ethical investing",
+            "Frugality",
+            "Green brands",
+            "Intentional living",
+            "Socially responsible investing",
+            "Sustainable living",
+            "Vegetarianism",
+            "Veganism",
+            "Ecologism",
+            "Organic food culture"
+          ]
+        },
+        {
+          "name": "Greenwashing",
+          "children": [
+            "Astroturfing",
+            "Conspicuous conservation",
+            "Ecolabel",
+            "Environmentally friendly",
+            "False advertising",
+            "Fossil fuels lobby",
+            "Green brands",
+            "Green company",
+            "Green marketing",
+            "List of environmental issues",
+            "Pinkwashing",
+            "Sunshine unit",
+            "Purplewashing"
+          ]
+        },
+        {
+          "name": "Triple bottom line",
+          "children": [
+            "B Corporation (certification)",
+            "Bottom of the pyramid",
+            "Circles of Sustainability",
+            "Community interest company",
+            "Conscious business",
+            "Double bottom line",
+            "EC3 Global",
+            "Grassroots Business Fund",
+            "Impact investing",
+            "Institute for Sustainable Communication",
+            "Low-profit limited liability company",
+            "Permaculture ethics",
+            "Social entrepreneurship",
+            "Triple top line",
+            "Value network",
+            "Value network analysis"
+          ]
+        },
+        {
+          "name": "Sustainability brand",
+          "children": [
+            "Ecological economics",
+            "Ecologically sustainable development",
+            "Environmentally friendly",
+            "Sustainable packaging"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Intentional living",
+      "children": [
+        {
+          "name": "Car-free movement",
+          "children": [
+            "Alternatives to car use",
+            "Automobile dependency",
+            "Car costs",
+            "Car-Free Days",
+            "Effects of the car on societies",
+            "Jan Gehl",
+            "List of car-free places",
+            "Carfree city",
+            "Peak car",
+            "Principles of Intelligent Urbanism",
+            "Spatial mismatch"
+          ]
+        },
+        {
+          "name": "Eco-communalism",
+          "children": [
+            "Anti-globalization",
+            "Back to the land",
+            "Bioregionalism",
+            "Commune (intentional community)",
+            "Ecovillage",
+            "Global Citizens Movement",
+            "Globalization",
+            "Great Transition",
+            "Green anarchism",
+            "Murray Bookchin",
+            "Permaculture",
+            "Planetary phase of civilization",
+            "Post-capitalism",
+            "Social ecology",
+            "Communalism"
+          ]
+        },
+        {
+          "name": "Ecovillage",
+          "children": []
+        },
+        {
+          "name": "Orthodox Mennonites",
+          "children": [
+            "Elmo Stoll",
+            "Global Anabaptist Mennonite Encyclopedia Online",
+            "Mennonite Historical Library"
+          ]
+        },
+        {
+          "name": "Noah Hoover Mennonite",
+          "children": [
+            "Michigan Churches"
+          ]
+        },
+        {
+          "name": "Simple living",
+          "children": [
+            "Simple living advocates",
+            "Affluenza",
+            "Asceticism",
+            "Anti-consumerism",
+            "Black Bear Ranch",
+            "Corporate poverty",
+            "Deep ecology",
+            "Degrowth",
+            "Eye of a needle",
+            "Epicureanism",
+            "Homesteading",
+            "Intentional living",
+            "Jesus and the rich young man"
+          ]
+        },
+        {
+          "name": "Veganism",
+          "children": [
+            "Vegan nutrition",
+            "Vegetarianism"
+          ]
+        },
+        {
+          "name": "World Brotherhood Colonies",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Socially responsible investing",
+      "children": [
+        {
+          "name": "Business ethics",
+          "children": [
+            "B Corporation (certification)",
+            "Bribery",
+            "Business culture",
+            "Business law",
+            "Corporate behaviour",
+            "Corporate crime",
+            "Corporate social entrepreneurship",
+            "Corporate social responsibility",
+            "Corruption",
+            "Ethicism",
+            "Ethics",
+            "Ethical implications in contracts",
+            "Ethical consumerism",
+            "Ethical code",
+            "Ethical job",
+            "Evil corporation",
+            "Fiduciary",
+            "Management",
+            "Organizational ethics",
+            "Optimism bias",
+            "Penny stock scam",
+            "Strategic misrepresentation",
+            "Strategic planning",
+            "Philosophy and economics",
+            "Applied ethics"
+          ]
+        },
+        {
+          "name": "Development impact bond",
+          "children": [
+            "Bond (finance)",
+            "Build America Bonds",
+            "Eurobond",
+            "GDP-linked bond",
+            "Government bond",
+            "Sovereign bonds",
+            "Impact Investing",
+            "Patient capital",
+            "Social impact bond"
+          ]
+        },
+        {
+          "name": "Community wind energy",
+          "children": [
+            "List of onshore wind farms",
+            "Native Wind",
+            "Community solar farm"
+          ]
+        },
+        {
+          "name": "Corporate social responsibility",
+          "children": [
+            "Beneficiation",
+            "Business in the Community",
+            "Business philosophy",
+            "Carbon neutrality",
+            "Carbon offset",
+            "Chief green officer",
+            "Civil society",
+            "Conscious business",
+            "Corporate behaviour",
+            "Corporate governance",
+            "Corporate personhood",
+            "Corporate social entrepreneurship",
+            "Corporate sustainability",
+            "Customer engagement",
+            "Development studies",
+            "Environmentalism",
+            "Ethical banking",
+            "Ethical code",
+            "Ethical job",
+            "Ethical Positioning Index (EPI)",
+            "Ethics",
+            "Green economy",
+            "Green job",
+            "Inclusive business",
+            "Integrity management",
+            "Interest of the company",
+            "International development",
+            "ISO 26000",
+            "Life cycle assessment",
+            "Matching gift",
+            "Noblesse oblige",
+            "OECD Guidelines for Multinational Enterprises",
+            "Organizational ethics",
+            "Organizational justice",
+            "Psychopathy in the workplace",
+            "Purple economy",
+            "Responsible mining",
+            "Responsible Research and Innovation",
+            "Shareholder primacy",
+            "Social development",
+            "Social work",
+            "Socially responsible investing",
+            "Socially responsible marketing",
+            "Voluntary compliance",
+            "Volunteer grant"
+          ]
+        },
+        {
+          "name": "Disinvestment",
+          "children": [
+            "Economic and political boycotts of Israel",
+            "Ethical consumerism",
+            "Fossil fuel divestment",
+            "Municipal disinvestment",
+            "Socially responsible investing",
+            "Privatization"
+          ]
+        },
+        {
+          "name": "Eco-investing",
+          "children": [
+            "Ethical banking",
+            "Market-based environmental policy instruments",
+            "Sustainable products",
+            "Terror-free investing"
+          ]
+        },
+        {
+          "name": "Ethical banking",
+          "children": [
+            "Carbon Disclosure Project",
+            "Climate ethics",
+            "Corporate social responsibility",
+            "Equator Principles",
+            "Socially responsible investing"
+          ]
+        },
+        {
+          "name": "Fossil fuel divestment",
+          "children": [
+            "Australian Local Government Fossil Fuel Divestment",
+            "Climate movement",
+            "Fossil-fuel phase-out",
+            "Individual action on climate change",
+            "Low-carbon power",
+            "Negative externalities",
+            "Socially responsible investing",
+            "Sustainable consumption",
+            "Sustainable development"
+          ]
+        },
+        {
+          "name": "Integrated reporting",
+          "children": [
+            "Corporate social responsibility",
+            "EthicalQuote",
+            "Environmental Social and Corporate Governance",
+            "Financial statement",
+            "King Report on Corporate Governance",
+            "Social accounting",
+            "Socially responsible investing",
+            "Sustainability reporting",
+            "Triple bottom line",
+            "Islamic Reporting Initiative"
+          ]
+        },
+        {
+          "name": "Impact investing",
+          "children": [
+            "Double bottom line",
+            "Financial inclusion",
+            "Social finance",
+            "Social return on investment",
+            "Socially responsible investing"
+          ]
+        },
+        {
+          "name": "Microfinance",
+          "children": [
+            "Alternative data",
+            "Chit fund",
+            "Credit union",
+            "Crowd funding",
+            "List of microfinance sponsors",
+            "Market Governance Mechanisms",
+            "Microcredit",
+            "Microcredit for water supply and sanitation",
+            "Microfin360 - MIS & AIS for MFI",
+            "Microfinance in Tanzania",
+            "Microfinance organizations",
+            "Microgrant",
+            "Microinsurance",
+            "MifosX - MIS for MFI",
+            "Opportunity finance",
+            "Pawnbroker",
+            "Rotating savings and credit association",
+            "Savings bank",
+            "Assessment Fund",
+            "Tikkun Olam Microfinance",
+            "WWB Colombia"
+          ]
+        },
+        {
+          "name": "Islamic finance products, services and contracts",
+          "children": [
+            "Profit and loss sharing",
+            "Sharia and securities trading",
+            "Islamic banking and finance",
+            "Shariah Board",
+            "Dow Jones Islamic Fund"
+          ]
+        },
+        {
+          "name": "Social finance",
+          "children": [
+            "Christian finance",
+            "EthicalQuote",
+            "Impact investing",
+            "Microfinance",
+            "Social enterprise",
+            "Social impact bond",
+            "Socially-responsible investing"
+          ]
+        },
+        {
+          "name": "Social impact bond",
+          "children": [
+            "Business ethics",
+            "Campus carbon neutrality",
+            "Corporate social responsibility",
+            "Disinvestment",
+            "Dwight Hall Socially Responsible Investment Fund",
+            "Ethical banking",
+            "Impact investing",
+            "Microfinance",
+            "Social finance",
+            "White House Office of Social Innovation and Civic Participation",
+            "Sustainable development",
+            "The Government Pension Fund of Norway"
+          ]
+        },
+        {
+          "name": "Social responsibility",
+          "children": [
+            "Accountability",
+            "Collective responsibility",
+            "Corporate social responsibility",
+            "Inclusive business",
+            "SA8000",
+            "Scuppie",
+            "Shareholder primacy",
+            "Social enterprise",
+            "Social entrepreneurship",
+            "Socially responsible investing"
+          ]
+        },
+        {
+          "name": "Sustainable development",
+          "children": [
+            "Agroecology",
+            "Applied sustainability",
+            "Circles of Sustainability",
+            "Circular economy",
+            "Computational sustainability",
+            "Conservation biology",
+            "Conservation development",
+            "Cradle-to-cradle",
+            "Cultural footprint",
+            "Development Studies",
+            "Ecological economics",
+            "Ecological modernization",
+            "Ecologically sustainable development",
+            "Environmental issue",
+            "Environmental justice",
+            "Environmental racism",
+            "Farmer Research Committee",
+            "Gender and development",
+            "Green development",
+            "Micro-sustainability",
+            "Outline of sustainability",
+            "Purple economy",
+            "Regenerative design",
+            "Social sustainability",
+            "Sustainable coffee",
+            "Sustainable fishery",
+            "Sustainable forest management",
+            "Sustainable land management",
+            "Sustainable living",
+            "Sustainable yield",
+            "Sustainopreneurship",
+            "Weak and strong sustainability",
+            "Zero-carbon city"
+          ]
+        },
+        {
+          "name": "Terror-free investing",
+          "children": [
+            "Socially responsible investing",
+            "Definition of terrorism",
+            "List of designated terrorist organizations",
+            "U.S. State Department list of Foreign Terrorist Organizations",
+            "State Sponsors of Terrorism"
+          ]
+        },
+        {
+          "name": "Vice Fund",
+          "children": []
+        },
+        {
+          "name": "Blended value",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Sustainable living",
+      "children": [
+        {
+          "name": "Circles of Sustainability",
+          "children": [
+            "Applied sustainability",
+            "Ecologically sustainable development",
+            "Engaged theory",
+            "Social sustainability",
+            "Sustainability",
+            "Sustainable development",
+            "Sustainable development goals",
+            "Urban design",
+            "Urban planning"
+          ]
+        },
+        {
+          "name": "Cradle-to-cradle design",
+          "children": [
+            "Appropriate technology",
+            "Circular economy",
+            "Downcycling",
+            "Ecodesign",
+            "Huangbaiyu",
+            "Life cycle assessment",
+            "List of environment topics",
+            "Permaculture",
+            "Planned obsolescence",
+            "Regenerative design",
+            "Sustainability",
+            "Upcycling",
+            "William McDonough"
+          ]
+        },
+        {
+          "name": "Circular economy",
+          "children": [
+            "Algorithmic regulation",
+            "Appropriate technology",
+            "Downcycling",
+            "Durable good",
+            "Life cycle assessment",
+            "Life cycle thinking",
+            "List of environment topics",
+            "Loop analysis",
+            "Path analysis",
+            "Regenerative design",
+            "Resource efficiency",
+            "Sharing economy",
+            "Social metabolism",
+            "Sustainability",
+            "Sustainable development",
+            "Upcycling",
+            "Waste & Resources Action Programme"
+          ]
+        },
+        {
+          "name": "Climate-friendly gardening",
+          "children": [
+            "Agroforestry",
+            "Energy-efficient landscaping",
+            "Foodscaping",
+            "Forest gardening",
+            "Green building",
+            "List of organic gardening and farming topics",
+            "Orchard",
+            "Organic gardening",
+            "Permaculture",
+            "Rain garden",
+            "design",
+            "gardening",
+            "landscaping",
+            "landscape architecture",
+            "living",
+            "Vegan organic gardening",
+            "Water-wise gardening",
+            "Wildlife gardening"
+          ]
+        },
+        {
+          "name": "Downshifting (lifestyle)",
+          "children": [
+            "Anti-consumerism",
+            "Conspicuous consumption",
+            "Degrowth",
+            "Eco-communalism",
+            "Ecological economics",
+            "Ecovillage",
+            "Ethical consumerism",
+            "FIRE movement",
+            "Frugality",
+            "Homesteading",
+            "Intentional community",
+            "Intentional living",
+            "Permaculture",
+            "Simple living",
+            "Slow living",
+            "Slow movement",
+            "Sustainable living",
+            "Transition towns",
+            "Workaholic"
+          ]
+        },
+        {
+          "name": "Eco-communalism",
+          "children": [
+            "Anti-globalization",
+            "Back to the land",
+            "Bioregionalism",
+            "Commune (intentional community)",
+            "Ecovillage",
+            "Global Citizens Movement",
+            "Globalization",
+            "Great Transition",
+            "Green anarchism",
+            "Murray Bookchin",
+            "Permaculture",
+            "Planetary phase of civilization",
+            "Post-capitalism",
+            "Social ecology",
+            "Communalism"
+          ]
+        },
+        {
+          "name": "Ecodesign",
+          "children": [
+            "Eco-innovation",
+            "Ecological design",
+            "Environmental design",
+            "European Ecodesign Directive",
+            "Green building",
+            "Life cycle assessment",
+            "Sustainability",
+            "Sustainable design",
+            "Sustainable development"
+          ]
+        },
+        {
+          "name": "Ecological economics",
+          "children": [
+            "Ecological economists",
+            "Agroecology",
+            "Deep ecology",
+            "Degrowth",
+            "Earth Economics",
+            "Eco-socialism",
+            "Ecofeminism",
+            "Ecological model of competition",
+            "Ecological values of mangrove",
+            "Ecology of contexts",
+            "Emergy synthesis",
+            "Embodied energy",
+            "Embodied water",
+            "Energy accounting",
+            "Energy quality",
+            "Environmental economics",
+            "Green accounting",
+            "Human development theory",
+            "Human ecology",
+            "Inclusive Democracy",
+            "Index of Sustainable Economic Welfare",
+            "International Society for Ecological Economics",
+            "Natural capital accounting",
+            "Natural resource economics",
+            "Outline of green politics",
+            "Social metabolism",
+            "Spaceship Earth",
+            "Steady-state economy",
+            "Thermoeconomics"
+          ]
+        },
+        {
+          "name": "Ethical consumerism",
+          "children": [
+            "Anti-consumerism",
+            "Critical consumerism",
+            "Carrying capacity",
+            "Cause marketing",
+            "Consumerism",
+            "Ethical banking",
+            "Ethical eating",
+            "Ethical investing",
+            "Frugality",
+            "Green brands",
+            "Intentional living",
+            "Socially responsible investing",
+            "Sustainable living",
+            "Vegetarianism",
+            "Veganism",
+            "Ecologism",
+            "Organic food culture"
+          ]
+        },
+        {
+          "name": "Foodscaping",
+          "children": [
+            "Climate-friendly gardening",
+            "Community garden",
+            "Folkewall",
+            "Urban agriculture",
+            "Urban horticulture",
+            "Vertical farming",
+            "Victory garden"
+          ]
+        },
+        {
+          "name": "Frugality",
+          "children": [
+            "Affluenza",
+            "Anti-consumerism",
+            "Capsule wardrobe",
+            "Conspicuous consumption",
+            "Ethical consumerism",
+            "Financial independence",
+            "Frugal engineering",
+            "Garbage picking",
+            "Intentional living",
+            "Miser",
+            "Mottainai",
+            "Overconsumption",
+            "Paradox of thrift",
+            "Price comparison service",
+            "Simple living",
+            "Sustainable living"
+          ]
+        },
+        {
+          "name": "Simple living",
+          "children": [
+            "Simple living advocates",
+            "Affluenza",
+            "Asceticism",
+            "Anti-consumerism",
+            "Black Bear Ranch",
+            "Corporate poverty",
+            "Deep ecology",
+            "Degrowth",
+            "Eye of a needle",
+            "Epicureanism",
+            "Homesteading",
+            "Intentional living",
+            "Jesus and the rich young man"
+          ]
+        },
+        {
+          "name": "Sustainability",
+          "children": [
+            "Book: Sustainability"
+          ]
+        },
+        {
+          "name": "Sustainable architecture",
+          "children": [
+            "Alternative natural materials",
+            "BREEAM",
+            "Cross-laminated timber (CLT)",
+            "Deconstruction (building)",
+            "Earth embassy",
+            "Earthship",
+            "Ecological design",
+            "Ecological footprint",
+            "Energy-plus-house",
+            "Envirostructure",
+            "Fab Tree Hab",
+            "Haute qualité environnementale",
+            "Low-energy house",
+            "New Urbanism",
+            "Organic architecture",
+            "Passive house",
+            "Permaculture",
+            "Principles of Intelligent Urbanism",
+            "Renewable heat",
+            "Solar architecture",
+            "Solar chimney",
+            "Straw-bale construction",
+            "Superinsulation",
+            "Sustainable design",
+            "Sustainable development",
+            "Sustainable flooring",
+            "Sustainable landscape architecture",
+            "Sustainable preservation",
+            "Sustainable refurbishment",
+            "Windcatcher",
+            "Zero-energy building"
+          ]
+        },
+        {
+          "name": "Sustainable design",
+          "children": [
+            "Active daylighting",
+            "Active solar",
+            "Agroforestry",
+            "BREEAM",
+            "Bright green environmentalism",
+            "Building Information Modeling",
+            "Building services engineering",
+            "Circles of Sustainability",
+            "Climate-friendly gardening",
+            "Cool roof",
+            "Cradle to Cradle",
+            "Daylighting",
+            "Earth embassy",
+            "Eco-innovation",
+            "Ecodistrict",
+            "Ecological Restoration",
+            "Excellence in Design for Greater Efficiencies",
+            "Ecosa Institute",
+            "Ecosystem services",
+            "Energy plus house",
+            "Environmentally friendly",
+            "Green chemistry",
+            "Green library",
+            "Green transport",
+            "Healthy building",
+            "History of passive solar building design",
+            "Landscape ecology",
+            "Leadership in Energy and Environmental Design",
+            "List of energy storage projects",
+            "List of low-energy building techniques",
+            "List of sustainable agriculture topics",
+            "Metadesign",
+            "Passive solar",
+            "Passive solar design",
+            "Principles of Intelligent Urbanism",
+            "Renewable resource",
+            "Source reduction",
+            "Superinsulation",
+            "Sustainable art",
+            "Terreform ONE",
+            "Vertical garden",
+            "Water conservation",
+            "Water Management",
+            "Watershed",
+            "Zero energy building"
+          ]
+        },
+        {
+          "name": "Sustainable development",
+          "children": [
+            "Agroecology",
+            "Applied sustainability",
+            "Circles of Sustainability",
+            "Circular economy",
+            "Computational sustainability",
+            "Conservation biology",
+            "Conservation development",
+            "Cradle-to-cradle",
+            "Cultural footprint",
+            "Development Studies",
+            "Ecological economics",
+            "Ecological modernization",
+            "Ecologically sustainable development",
+            "Environmental issue",
+            "Environmental justice",
+            "Environmental racism",
+            "Farmer Research Committee",
+            "Gender and development",
+            "Green development",
+            "Micro-sustainability",
+            "Outline of sustainability",
+            "Purple economy",
+            "Regenerative design",
+            "Social sustainability",
+            "Sustainable coffee",
+            "Sustainable fishery",
+            "Sustainable forest management",
+            "Sustainable land management",
+            "Sustainable living",
+            "Sustainable yield",
+            "Sustainopreneurship",
+            "Weak and strong sustainability",
+            "Zero-carbon city"
+          ]
+        },
+        {
+          "name": "Sustainable event management",
+          "children": []
+        },
+        {
+          "name": "Sustainable landscaping",
+          "children": [
+            "Horticulture",
+            "Landscape ecology",
+            "List of companion plants",
+            "Naturescaping",
+            "Sustainable gardening",
+            "Sustainable planting",
+            "Climate-friendly gardening"
+          ]
+        },
+        {
+          "name": "Sustainable House Day",
+          "children": []
+        },
+        {
+          "name": "Permaculture",
+          "children": [
+            "Agrarianism",
+            "Agroecology",
+            "Agroforestry",
+            "Aquaponics",
+            "Biodynamics",
+            "Bill Mollison",
+            "Geoff Lawton",
+            "Willie Smits",
+            "Biointensive agriculture",
+            "Biomimicry",
+            "Climate-friendly gardening",
+            "David Holmgren",
+            "Ecoagriculture",
+            "Food-feed system",
+            "Forest gardening",
+            "Holzer Permaculture",
+            "Hügelkultur",
+            "List of permaculture projects",
+            "Microponics",
+            "Paul Wheaton",
+            "Permaforestry",
+            "Regenerative agriculture",
+            "Seed saving",
+            "Sepp Holzer",
+            "Zaï"
+          ]
+        },
+        {
+          "name": "Jacque Fresco",
+          "children": [
+            "The Zeitgeist Movement"
+          ]
+        },
+        {
+          "name": "Transition town",
+          "children": [
+            "Carfree city",
+            "Circles of Sustainability",
+            "Climate change",
+            "Degrowth",
+            "Electric vehicle",
+            "Energy descent",
+            "Fairtrade Town",
+            "Food swap",
+            "Great Transition",
+            "Into The Open Economy",
+            "Open access economy",
+            "New Economy movement",
+            "Peak oil",
+            "Permaculture",
+            "Renewable electricity",
+            "Solidarity economy",
+            "Sustainable city",
+            "Transition management (governance)"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vegetarianism",
+      "children": [
+        {
+          "name": "Adolf Hitler and vegetarianism",
+          "children": [
+            "Animal welfare in Nazi Germany",
+            "Reductio ad Hitlerum",
+            "list of vegetarians"
+          ]
+        },
+        {
+          "name": "Carnivore",
+          "children": [
+            "Mesocarnivore",
+            "Herbivore"
+          ]
+        },
+        {
+          "name": "Cultured meat",
+          "children": [
+            "BioArt",
+            "List of meat substitutes",
+            "Quorn",
+            "Tissue culture",
+            "Timeline of cellular agriculture",
+            "SuperMeat",
+            "New Harvest",
+            "The Good Food Institute"
+          ]
+        },
+        {
+          "name": "Economic vegetarianism",
+          "children": [
+            "Environmental vegetarianism",
+            "Simple living",
+            "Sustainable diet",
+            "Sustainable living",
+            "Vegetarianism"
+          ]
+        },
+        {
+          "name": "Environmental impact of meat production",
+          "children": [
+            "Agroecology",
+            "Cheap meat",
+            "Cultured meat",
+            "Economic vegetarianism",
+            "Flexitarianism",
+            "Environmental impact of agriculture",
+            "Environmental impact of pig farming",
+            "Environmental vegetarianism",
+            "Ethical eating",
+            "Ethics of eating meat",
+            "Farmageddon",
+            "Meatless Monday",
+            "Meat tax",
+            "Stock-free agriculture",
+            "Sustainable agriculture",
+            "Sustainable diet"
+          ]
+        },
+        {
+          "name": "Environmental vegetarianism",
+          "children": [
+            "Entomophagy",
+            "Environmentalism",
+            "Ethics of vegetarianism",
+            "In vitro meat",
+            "Stock-free agriculture",
+            "Sustainable diet",
+            "Vegan organic gardening"
+          ]
+        },
+        {
+          "name": "Food and drink prohibitions",
+          "children": [
+            "Carnism",
+            "Diet",
+            "Fasting",
+            "Morality",
+            "Religious views on smoking",
+            "Semi-vegetarianism",
+            "Treef"
+          ]
+        },
+        {
+          "name": "History of vegetarianism",
+          "children": [
+            "History of veganism",
+            "Vegetarianism and religion",
+            "Nutrition in Classical Antiquity",
+            "Timeline of cellular agriculture",
+            "Timeline of animal welfare and rights"
+          ]
+        },
+        {
+          "name": "Lacto vegetarianism",
+          "children": [
+            "Lacto-ovo vegetarianism",
+            "List of butter dishes",
+            "List of cheese dishes",
+            "List of dairy products",
+            "List of vegetable dishes",
+            "List of vegetarian restaurants",
+            "Ovo vegetarianism",
+            "Ovo-lacto vegetarianism",
+            "Sattvic Diet",
+            "Sentient foods",
+            "Veganism",
+            "Vegetarianism",
+            "VeggieBoards"
+          ]
+        },
+        {
+          "name": "List of diets",
+          "children": [
+            "Academy of Nutrition and Dietetics",
+            "Comparison of Islamic and Jewish dietary laws",
+            "Dietitian",
+            "British Dietetic Association",
+            "Eating disorder",
+            "Eatwell plate",
+            "Food security",
+            "Nutritional rating systems",
+            "Online weight loss plans",
+            "Vegetarianism and religion"
+          ]
+        },
+        {
+          "name": "List of vegetarian festivals",
+          "children": [
+            "American Vegan Society",
+            "Awareness day",
+            "List of food days",
+            "List of food months",
+            "List of food weeks",
+            "List of vegetarian and vegan companies",
+            "List of vegetarian organizations",
+            "Meat-free days",
+            "Vegetarian week",
+            "Vegetarianism by country",
+            "World Vegan Day",
+            "World Vegetarian Day"
+          ]
+        },
+        {
+          "name": "List of vegetarian restaurants",
+          "children": [
+            "Health food restaurant",
+            "Lists of restaurants",
+            "List of vegetarian and vegan companies"
+          ]
+        },
+        {
+          "name": "List of vegetarians",
+          "children": [
+            "List of vegans"
+          ]
+        },
+        {
+          "name": "Meat-free days",
+          "children": [
+            "Awareness day",
+            "Friday Fast",
+            "List of food days",
+            "List of food weeks",
+            "List of food months",
+            "Meatless Monday",
+            "List of vegetarian festivals",
+            "Vegetarian week",
+            "World Vegan Day",
+            "World Vegetarian Day"
+          ]
+        },
+        {
+          "name": "Meat tax",
+          "children": [
+            "Carbon tax",
+            "Fat tax",
+            "Sugary drink tax"
+          ]
+        },
+        {
+          "name": "Nutritionism",
+          "children": [
+            "List of diets"
+          ]
+        },
+        {
+          "name": "Ovo vegetarianism",
+          "children": [
+            "Lacto vegetarianism",
+            "List of dairy products",
+            "List of vegetable dishes",
+            "List of vegetarian restaurants",
+            "List of egg dishes",
+            "Ovo-lacto vegetarianism"
+          ]
+        },
+        {
+          "name": "Ovo-lacto vegetarianism",
+          "children": [
+            "Lacto vegetarianism",
+            "Ovo vegetarianism",
+            "Pescetarianism",
+            "Sentient foods",
+            "Veganism",
+            "List of butter dishes",
+            "List of cheese dishes",
+            "List of dairy products",
+            "List of egg dishes",
+            "List of vegetable dishes",
+            "List of vegetarian restaurants"
+          ]
+        },
+        {
+          "name": "Pescetarianism",
+          "children": [
+            "Semi-vegetarianism",
+            "Legal Sea Foods"
+          ]
+        },
+        {
+          "name": "Plant-based diet",
+          "children": []
+        },
+        {
+          "name": "Semi-vegetarianism",
+          "children": [
+            "Entomophagy",
+            "Ethical eating",
+            "Ethical omnivorism",
+            "Ethics of eating meat",
+            "Food and drink prohibitions",
+            "Meatless Monday",
+            "Meat tax",
+            "Sustainable diet"
+          ]
+        },
+        {
+          "name": "Single-cell protein",
+          "children": []
+        },
+        {
+          "name": "Veganism",
+          "children": [
+            "Vegan nutrition",
+            "Vegetarianism"
+          ]
+        },
+        {
+          "name": "Vegetarianism and religion",
+          "children": [
+            "Animal sacrifice",
+            "Animal chaplains",
+            "Environmental vegetarianism",
+            "Ethics of vegetarianism",
+            "Fasting",
+            "History of vegetarianism",
+            "Vegetarian cuisine",
+            "Vegetarian nutrition"
+          ]
+        },
+        {
+          "name": "Buddhist vegetarianism",
+          "children": [
+            "Buddhist cuisine",
+            "Jain vegetarianism",
+            "Buddhist ethics",
+            "Vegetarian cuisine",
+            "Vegetarianism and religion"
+          ]
+        },
+        {
+          "name": "Christian vegetarianism",
+          "children": [
+            "Animal chaplains",
+            "Benjamin Urrutia",
+            "Christian dietary laws",
+            "Christian pacifism",
+            "Daniel Fast",
+            "Eastern Orthodox Fasting",
+            "Fruitarianism",
+            "Islam and animals",
+            "Jesuism",
+            "Jewish vegetarianism",
+            "Postmodern Christianity",
+            "Simple living",
+            "Vegetarian cuisine",
+            "Vegetarianism and religion"
+          ]
+        },
+        {
+          "name": "Jain vegetarianism",
+          "children": [
+            "Fruitarianism",
+            "Veganism",
+            "Indian cuisine",
+            "Sattvic diet",
+            "Vegetarian cuisine",
+            "Vegetarianism and religion",
+            "Vitalism (Jainism)",
+            "Vegetarianism and ecology"
+          ]
+        },
+        {
+          "name": "Jewish vegetarianism",
+          "children": [
+            "Calf 269",
+            "Judaism and environmentalism",
+            "Jewish Veg",
+            "Vegetarian cuisine",
+            "Vegetarianism and religion"
+          ]
+        },
+        {
+          "name": "Vegetarianism by country",
+          "children": [
+            "List of vegetarian festivals",
+            "List of vegetarian organizations"
+          ]
+        },
+        {
+          "name": "Vegetarian cuisine",
+          "children": [
+            "Indian vegetarian cuisine",
+            "Chinese Buddhist cuisine",
+            "Korean vegetarian cuisine",
+            "Veganism",
+            "List of meat substitutes",
+            "List of vegetable dishes",
+            "List of vegetarian restaurants",
+            "List of vegetarian and vegan companies",
+            "South Asian Veggie Table",
+            "Vegetarian Cooking for Everyone"
+          ]
+        },
+        {
+          "name": "Vegetarian Diet Pyramid",
+          "children": [
+            "Diet in Hinduism"
+          ]
+        },
+        {
+          "name": "Vegetarian nutrition",
+          "children": [
+            "Vegetarian cuisine",
+            "Vegan nutrition",
+            "China–Cornell–Oxford Project",
+            "The China Study"
+          ]
+        },
+        {
+          "name": "Vegetarianism in the Romantic Era",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Veganism",
+      "children": [
+        {
+          "name": "Vegan nutrition",
+          "children": [
+            "Vegetarian nutrition",
+            "Raw veganism",
+            "Nutritional medicine"
+          ]
+        },
+        {
+          "name": "Vegetarianism",
+          "children": [
+            "Adolf Hitler and vegetarianism",
+            "Carnivore",
+            "Cookbook:Vegetarian cuisine",
+            "Cultured meat",
+            "Economic vegetarianism",
+            "Environmental impact of meat production",
+            "Environmental vegetarianism",
+            "Food and drink prohibitions",
+            "History of vegetarianism",
+            "Lacto vegetarianism",
+            "List of diets",
+            "List of vegetarian festivals",
+            "List of vegetarian restaurants",
+            "List of vegetarians",
+            "Meat-free day",
+            "Meat tax",
+            "Nutritionism",
+            "Ovo vegetarianism",
+            "Ovo-lacto vegetarianism",
+            "Pescetarianism",
+            "Plant-based diet",
+            "Semi-vegetarianism",
+            "Single-cell protein",
+            "Veganism",
+            "Vegetarianism and religion",
+            "Buddhist vegetarianism",
+            "Christian vegetarianism",
+            "Jain vegetarianism",
+            "Jewish vegetarianism",
+            "Vegetarianism by country",
+            "Vegetarian cuisine",
+            "Vegetarian Diet Pyramid",
+            "Vegetarian nutrition",
+            "Vegetarianism and Romanticism"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Environmentalism",
+      "children": [
+        {
+          "name": "Conservation (ethic)",
+          "children": [
+            "Conservation biology",
+            "Conservation movement",
+            "Cryoconservation of animal genetic resources",
+            "Ecology",
+            "Environmentalism",
+            "Environmental protection",
+            "Habitat conservation",
+            "Index of environmental articles",
+            "List of environmental issues",
+            "List of environmental organizations",
+            "Natural capital",
+            "Natural environment",
+            "Natural resource",
+            "Renewable resource",
+            "Sustainability",
+            "Sustainable agriculture",
+            "Trail ethics",
+            "Water conservation",
+            "Wildlife conservation"
+          ]
+        },
+        {
+          "name": "Conservation movement",
+          "children": [
+            "Australian Grains Genebank",
+            "Conservation biology",
+            "Conservation ethic",
+            "Ecology",
+            "Ecology movement",
+            "Energy conservation",
+            "Environmental history",
+            "Environmental movement",
+            "Environmental protection",
+            "Environmentalism",
+            "Factor 10",
+            "Forest protection",
+            "Habitat conservation",
+            "List of environmental organizations",
+            "List of environment topics",
+            "Marine conservation",
+            "Natural environment",
+            "Natural landscape",
+            "Soil conservation",
+            "Sustainability",
+            "U.S. National Park Service",
+            "Water conservation",
+            "Wetland conservation",
+            "Wildlife conservation",
+            "Wildlife management"
+          ]
+        },
+        {
+          "name": "Counterculture of the 1960s",
+          "children": [
+            "Freak scene",
+            "Mod (subculture)",
+            "Non-conformists of the 1930s",
+            "Timeline of 1960s counterculture",
+            "War on Drugs",
+            "Protests of 1968"
+          ]
+        },
+        {
+          "name": "Bioconservatism",
+          "children": [
+            "Bioluddism",
+            "Posthumanization",
+            "Techno-progressivism",
+            "Transhumanism"
+          ]
+        },
+        {
+          "name": "Car-free movement",
+          "children": [
+            "Alternatives to car use",
+            "Automobile dependency",
+            "Car costs",
+            "Car-Free Days",
+            "Effects of the car on societies",
+            "Jan Gehl",
+            "List of car-free places",
+            "Carfree city",
+            "Peak car",
+            "Principles of Intelligent Urbanism",
+            "Spatial mismatch"
+          ]
+        },
+        {
+          "name": "Deep ecology",
+          "children": [
+            "ANCEP",
+            "ATWA",
+            "Biocentrism (ethics)",
+            "Biophilia hypothesis",
+            "Coupled human-environment system",
+            "Earth liberation",
+            "Ecocentrism",
+            "Eco-communalism",
+            "Ecotheology",
+            "Ecosophy",
+            "Ecosystem-based management",
+            "Environmental psychology",
+            "Gaianism",
+            "Human ecology",
+            "Intrinsic value (animal ethics)",
+            "Negative Population Growth",
+            "Neotribalism",
+            "Pantheism",
+            "Population Connection",
+            "Spiritual ecology",
+            "Sustainable development",
+            "Voluntary Human Extinction Movement"
+          ]
+        },
+        {
+          "name": "Environmental movement",
+          "children": [
+            "Anti-consumerism",
+            "Bright green environmentalism",
+            "Chemical Leasing",
+            "Carbon Neutrality",
+            "Car-free movement",
+            "Climate movement",
+            "Conservation movement",
+            "Earth Science",
+            "Eco-anarchism",
+            "Eco-socialism",
+            "Ecofascism",
+            "Ecological economics",
+            "Ecological modernization",
+            "Ecology",
+            "Elizabeth Economy",
+            "Environmentalism",
+            "Environmental philosophy",
+            "Environmental organizations",
+            "Environmental racism",
+            "Environmental science",
+            "Environmental skepticism",
+            "Free-market environmentalism",
+            "Green anarchism",
+            "Green movement",
+            "Green seniors",
+            "Green syndicalism",
+            "Holistic management",
+            "Natural environment",
+            "Political ecology",
+            "Positive environmentalism",
+            "Reforestation",
+            "Radical environmentalism",
+            "Social ecology",
+            "Sustainability",
+            "Sustainability and systemic change resistance",
+            "Technogaianism",
+            "Timeline of environmental events",
+            "Voluntary Human Extinction Movement",
+            "Information Environmentalism"
+          ]
+        },
+        {
+          "name": "Environmental law",
+          "children": [
+            "UK enterprise law",
+            "Environmental racism",
+            "Environmental racism in Europe",
+            "Indigenous rights",
+            "International law",
+            "List of environmental law journals"
+          ]
+        },
+        {
+          "name": "Environmental movement",
+          "children": [
+            "Anti-consumerism",
+            "Bright green environmentalism",
+            "Chemical Leasing",
+            "Carbon Neutrality",
+            "Car-free movement",
+            "Climate movement",
+            "Conservation movement",
+            "Earth Science",
+            "Eco-anarchism",
+            "Eco-socialism",
+            "Ecofascism",
+            "Ecological economics",
+            "Ecological modernization",
+            "Ecology",
+            "Elizabeth Economy",
+            "Environmentalism",
+            "Environmental philosophy",
+            "Environmental organizations",
+            "Environmental racism",
+            "Environmental science",
+            "Environmental skepticism",
+            "Free-market environmentalism",
+            "Green anarchism",
+            "Green movement",
+            "Green seniors",
+            "Green syndicalism",
+            "Holistic management",
+            "Natural environment",
+            "Political ecology",
+            "Positive environmentalism",
+            "Reforestation",
+            "Radical environmentalism",
+            "Social ecology",
+            "Sustainability",
+            "Sustainability and systemic change resistance",
+            "Technogaianism",
+            "Timeline of environmental events",
+            "Voluntary Human Extinction Movement",
+            "Information Environmentalism"
+          ]
+        },
+        {
+          "name": "Environmental organization",
+          "children": [
+            "Environmentalism",
+            "List of international environmental agreements",
+            "United Nations Environment Program",
+            "Greenpeace"
+          ]
+        },
+        {
+          "name": "Environmental protection",
+          "children": [
+            "Biodiversity",
+            "Carbon offset",
+            "Conservation biology",
+            "Conservation movement",
+            "Earth Day",
+            "Ecology movement",
+            "Environmentalism",
+            "Environmental globalization",
+            "Environmental governance",
+            "Environmental law",
+            "Environmental movement",
+            "Environmental organizations",
+            "Environmental personhood",
+            "Environmental racism",
+            "Green party",
+            "Green politics",
+            "Green solutions",
+            "List of environmental organizations",
+            "List of environmental issues",
+            "List of environmental topics",
+            "List of international environmental agreements",
+            "Natural capital",
+            "Natural resource management",
+            "Participation (decision making)",
+            "Public information and participation",
+            "Renewable resource",
+            "Sustainability",
+            "Sustainable development"
+          ]
+        },
+        {
+          "name": "Environmental racism",
+          "children": [
+            "Antiziganism#Environmental struggles",
+            "Cancer Alley",
+            "Climate change and poverty",
+            "Economic inequality",
+            "Electronic waste",
+            "Environmental inequality in the United Kingdom",
+            "Environmental justice",
+            "Environmental policy of the United States",
+            "Environmental racism in Europe",
+            "Internalized racism",
+            "NIMBY",
+            "Environmental dumping",
+            "Hawks Nest Tunnel Disaster",
+            "Health inequality and environmental influence",
+            "Intergenerational equity",
+            "Planned shrinkage",
+            "Pollution in the United States#Environmental Discrimination",
+            "Race and health",
+            "Social inequality",
+            "Triangle of Death",
+            "Uranium mining and the Navajo people"
+          ]
+        },
+        {
+          "name": "Environmental inequality in Europe",
+          "children": [
+            "Aamjiwnaang First Nation",
+            "Aarhus Convention",
+            "Cancer Alley",
+            "Dislocation of Sami people",
+            "Environmentalism",
+            "Environmental racism",
+            "Indigenous peoples",
+            "James Bay Project",
+            "Kyshtym disaster",
+            "Nuclear testing at Bikini Atoll",
+            "Ontario Minamata disease",
+            "Racism in Europe",
+            "Social inequality",
+            "Uranium mining and the Navajo people"
+          ]
+        },
+        {
+          "name": "Environmental sociology",
+          "children": [
+            "Bibliography of sociology",
+            "Ecological anthropology",
+            "Ecological design",
+            "Ecological economics",
+            "Ecological modernization theory",
+            "Enactivism",
+            "Environmental design",
+            "Environmental design and planning",
+            "Environmental economics",
+            "Environmental policy",
+            "Environmental racism",
+            "Environmental racism in Europe",
+            "Ethnoecology",
+            "Political ecology",
+            "Sociology of architecture",
+            "Sociology of disaster"
+          ]
+        },
+        {
+          "name": "Filmography of environmentalism",
+          "children": [
+            "Timeline of history of environmentalism",
+            "Anti-globalization Filmography",
+            "List of films dealing with Anarchism"
+          ]
+        },
+        {
+          "name": "Free-market environmentalism",
+          "children": [
+            "Eco-capitalism",
+            "Ecological economics",
+            "Environmental economics",
+            "Environmentalism",
+            "Foundation for Research on Economics and the Environment",
+            "Geolibertarianism",
+            "Georgism",
+            "Green conservatism",
+            "Green economy",
+            "Green libertarianism",
+            "Green tax shift",
+            "Land (economics)",
+            "Natural capitalism",
+            "Natural resource economics",
+            "Physiocracy",
+            "Polluter pays principle",
+            "Property and Environment Research Center",
+            "Property rights (economics)",
+            "Waterkeeper Alliance",
+            "Wise use"
+          ]
+        },
+        {
+          "name": "Green economy",
+          "children": [
+            "Agroecology",
+            "Chemical Leasing",
+            "Circular Economy",
+            "Eco-capitalism",
+            "Ecological Economics",
+            "Ecology of contexts",
+            "Embodied energy",
+            "Embodied water",
+            "Energy accounting",
+            "Energy economics",
+            "Energy policy",
+            "Energy quality",
+            "Environmental economics",
+            "Environmental ethics",
+            "Exergy",
+            "Feed-in tariff",
+            "Free-market environmentalism",
+            "Green accounting",
+            "Green growth",
+            "Human development theory",
+            "Human ecology",
+            "ISO 14000",
+            "Industrial ecology",
+            "Land value tax",
+            "List of Green topics",
+            "Market Governance Mechanisms",
+            "Natural capital",
+            "Natural resource economics",
+            "Passive solar building design",
+            "Pigovian tax",
+            "Purple economy",
+            "Renewable energy commercialization",
+            "Renewable heat",
+            "Restoration economy",
+            "Sustainable design",
+            "Clean Tech Nation",
+            "The Economics of Ecosystems and Biodiversity",
+            "World energy resources and consumption"
+          ]
+        },
+        {
+          "name": "Greening",
+          "children": [
+            "Alley § Green and revitalized alleys",
+            "Community Greens",
+            "Green Alliance"
+          ]
+        },
+        {
+          "name": "Green politics",
+          "children": [
+            "Outline of green politics"
+          ]
+        },
+        {
+          "name": "Ecotax",
+          "children": [
+            "Carbon tax",
+            "Electronic Waste Recycling Fee",
+            "Energy Tax Act",
+            "Environmental crime",
+            "Environmental tariff",
+            "Feebate",
+            "Free-market environmentalism",
+            "Geolibertarianism",
+            "Georgism",
+            "Green politics",
+            "Land value tax",
+            "Market governance mechanism",
+            "Pigovian tax",
+            "Severance tax"
+          ]
+        },
+        {
+          "name": "Greenway (landscape)",
+          "children": [
+            "List of cycleways",
+            "Bikeway",
+            "Boardwalk",
+            "Esplanade",
+            "Footpath",
+            "Foreshoreway",
+            "Greenbelt",
+            "Green Bridge (disambiguation)",
+            "Landscape architecture",
+            "Landscape planning",
+            "Linear park",
+            "Oceanway",
+            "Park system",
+            "Promenade",
+            "Public park",
+            "Rail trail",
+            "Rails with trails",
+            "Right-of-way",
+            "Regional park",
+            "Towpath",
+            "Trail",
+            "Urban park",
+            "Walking in London",
+            "Wildlife corridor"
+          ]
+        },
+        {
+          "name": "Hairshirt environmentalism",
+          "children": []
+        },
+        {
+          "name": "Human impact on the environment",
+          "children": [
+            "Attribution of recent climate change",
+            "Biome",
+            "Doomsday Clock",
+            "Environmental impact of Gulf wars",
+            "Environmental impact of Mardi Gras beads",
+            "Environmental impact of automobiles",
+            "Environmental impact of concrete",
+            "Environmental impact of development in the Sundarbans",
+            "Environmental impact of hydraulic fracturing",
+            "Environmental impact of hydraulic fracturing in the United States",
+            "Environmental impact of iron ore mining",
+            "Environmental impact of pig farming",
+            "Environmental impact of the chemical industry in Sarnia",
+            "Environmental impact of the coal industry",
+            "Environmental issue",
+            "Hemeroby",
+            "Human–wildlife conflict",
+            "FAO",
+            "Marine debris",
+            "Great Pacific garbage patch",
+            "Indian Ocean garbage patch",
+            "North Atlantic garbage patch",
+            "South Pacific garbage patch",
+            "Planetary boundaries",
+            "Sustainability"
+          ]
+        },
+        {
+          "name": "Linear park",
+          "children": [
+            "Boardwalk",
+            "Footpath",
+            "Foreshoreway",
+            "Greenway (landscape)",
+            "Promenade",
+            "Trail",
+            "Urban park",
+            "Wildlife corridor"
+          ]
+        },
+        {
+          "name": "Miss Earth",
+          "children": [
+            "List of beauty contests"
+          ]
+        },
+        {
+          "name": "Natural resource management",
+          "children": [
+            "Agriculture",
+            "Agroecology",
+            "Biodiversity",
+            "Bioregion",
+            "Conservation biology",
+            "Conservation ethic",
+            "Conservation movement",
+            "Conservation reliant species",
+            "Deep ecology",
+            "Earth Science",
+            "Ecology",
+            "Ecology movement",
+            "Ecosystem",
+            "Environmental movement",
+            "Environmental organizations",
+            "Environmental protection",
+            "Environmental resources management",
+            "Forestry",
+            "Global warming",
+            "Green party",
+            "Green politics",
+            "Habitat conservation",
+            "Holistic management",
+            "List of environmental issues",
+            "List of environmental organizations",
+            "Natural capital",
+            "Natural environment",
+            "Natural resource",
+            "Nature",
+            "Progressivism",
+            "Recycling",
+            "Renewable energy",
+            "Renewable resource",
+            "Stewardship",
+            "Sustainable agriculture",
+            "Sustainable management"
+          ]
+        },
+        {
+          "name": "Permaculture",
+          "children": [
+            "Agrarianism",
+            "Agroecology",
+            "Agroforestry",
+            "Aquaponics",
+            "Biodynamics",
+            "Bill Mollison",
+            "Geoff Lawton",
+            "Willie Smits",
+            "Biointensive agriculture",
+            "Biomimicry",
+            "Climate-friendly gardening",
+            "David Holmgren",
+            "Ecoagriculture",
+            "Food-feed system",
+            "Forest gardening",
+            "Holzer Permaculture",
+            "Hügelkultur",
+            "List of permaculture projects",
+            "Microponics",
+            "Paul Wheaton",
+            "Permaforestry",
+            "Regenerative agriculture",
+            "Seed saving",
+            "Sepp Holzer",
+            "Zaï"
+          ]
+        },
+        {
+          "name": "Population growth",
+          "children": [
+            "Anthropocene",
+            "Baby boom",
+            "Biological exponential growth",
+            "Demographic history",
+            "Demographic transition",
+            "Density dependence",
+            "Doubling time",
+            "Fertility factor (demography)",
+            "Human overpopulation",
+            "Irruptive growth",
+            "List of countries by population growth rate",
+            "Natalism",
+            "Antinatalism",
+            "Population bottleneck",
+            "Population decline",
+            "Population dynamics",
+            "World population",
+            "World Scientists' Warning to Humanity"
+          ]
+        },
+        {
+          "name": "Religion and environmentalism",
+          "children": [
+            "Animism",
+            "Earth Day Sunday",
+            "Ecotheology",
+            "Environmental ethics",
+            "Environmental racism",
+            "Evangelical environmentalism",
+            "Faith in Place",
+            "Judaism and environmentalism",
+            "Religion and peacebuilding",
+            "Spiritual ecology",
+            "Stewardship (theology)"
+          ]
+        },
+        {
+          "name": "Slow movement (culture)",
+          "children": [
+            "African time",
+            "Carl Honoré",
+            "Generation X",
+            "Generation Y",
+            "Generation Z",
+            "Slow architecture",
+            "Slow living",
+            "Slow reading"
+          ]
+        },
+        {
+          "name": "Sustainability",
+          "children": [
+            "Book: Sustainability"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Organic food culture",
+      "children": [
+        {
+          "name": "Organic food",
+          "children": [
+            "Agroecology",
+            "Genetically modified food",
+            "List of organic food topics",
+            "List of foods",
+            "Natural foods",
+            "Organic beans",
+            "Organic clothing",
+            "Organic farming",
+            "Permaculture",
+            "Soil Association",
+            "Whole foods",
+            "Organic food culture"
+          ]
+        },
+        {
+          "name": "Eco-gastronomy",
+          "children": [
+            "Biodiversity",
+            "Carlo Petrini",
+            "Critical consumerism",
+            "Ecology",
+            "Fast Food",
+            "Gastronomy",
+            "Slow Food",
+            "Guilt-Free Consumption",
+            "Organic food culture"
+          ]
+        },
+        {
+          "name": "Critical consumerism",
+          "children": [
+            "Nike sweatshops",
+            "Ethical consumerism",
+            "Consumerism",
+            "Boycotting",
+            "Anti-Boycott",
+            "Adbusting",
+            "Culture jamming",
+            "Sustainability",
+            "Guilt-Free Consumption",
+            "Organic food culture"
+          ]
+        },
+        {
+          "name": "Natural foods",
+          "children": [
+            "Health food",
+            "List of foods",
+            "List of organic food topics",
+            "Nature",
+            "Specialty foods",
+            "Organic food culture"
+          ]
+        },
+        {
+          "name": "Organic certification",
+          "children": [
+            "List of countries with organic agriculture regulation",
+            "List of organic food topics",
+            "NSF International",
+            "Organic farming",
+            "Organic clothing",
+            "Organic cotton",
+            "Standards of identity for food",
+            "Farm assurance",
+            "Certified Naturally Grown",
+            "Herbicide",
+            "Biopesticide",
+            "Organic food culture"
+          ]
+        },
+        {
+          "name": "Novel food",
+          "children": [
+            "Generally recognized as safe",
+            "Substantial equivalence"
+          ]
+        }
+      ]
+    }
+  ]
+}
